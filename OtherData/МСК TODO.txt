@@ -1,0 +1,120 @@
+Примечания:
+
++ значит сделано\обратано\найдены иные параметры
+- отказано в обработке (не нужно, найдено что-то другое)
+? имеются сомнения
+
+Найти материалы:
++	г. Элиста, где-то там https://geodesist.ru/threads/koordinaty-kalmykija.59473/page-3
+	г. Псков https://geodesist.ru/threads/pskov-chto-za-sistema-koordinat.89973/ - найти материалы
+	г. Комсомольск, Ивановская обл. - найти https://geodesist.ru/threads/sistema-koordinat-37-u-038-g-komsomolsk-ivanovskaja-obl.87223/
+	г. Новокубышевск - найти https://geodesist.ru/threads/parametry-perexoda-na-msk-g-novokubyshevska.85612/
+	г. Ставрополь-с. Шпаковское СК - найти https://geodesist.ru/threads/sistema-koordinat-v-stavropole.80025/
+	г. Усинск, Коми - найти https://geodesist.ru/threads/punkty-usinsk-respublika-komi.83973/
+	МСК 161 Абакан - найти https://geodesist.ru/threads/parametry-perexoda-msk-161.78079/
++	г. Омск - найти https://geodesist.ru/threads/nuzhna-pomosch-po-msk-goroda-omska.80157/, + тут пару точек https://geodesist.ru/threads/nuzhna-pomosch.42221/
+	г. Калуга - найти https://geodesist.ru/threads/g-kaluga-mestnaja-sistema-koordinat-perexod-v-msk40.55450/
++	г. Уфа - найти https://geodesist.ru/threads/pereschet-syryx-dannyx-rinex-v-sk-goroda-ufa.73802/
++	г. Керчь - найти или проверить эту https://geodesist.ru/threads/mestnaja-sistema-koordinat-g-kerch.73513/
++	г. Курган - найти https://geodesist.ru/threads/sk-g-kurgan.73017/
+	Старооскольская система координат (г. Старый Оскол) - найти https://geodesist.ru/threads/pomogite-s-koordinatami-ggs-starooskolskij-rajon.67476/, https://geodesist.ru/threads/ggs-staryj-oskol.53072/
+	г. Комсомольск-на-Амуре - найти https://geodesist.ru/threads/gsk-komsomolsk-na-amure.67951/, https://geodesist.ru/threads/parametry-g-komsomolsk-na-amure.47891/
+	г. Кострома - найти https://geodesist.ru/threads/msk-g-kostroma.51487/
+	Красноярский край г.Дудинка - найти https://geodesist.ru/threads/krasnojarskij-kraj-g-dudinka.45624/
+	Ногинск или Ногинский район, Московская область - https://geodesist.ru/threads/perevod-koordinat.76400/
+	г.Сафоново, Смоленская обл - найти https://geodesist.ru/threads/perevod-iz-mestnoj-sk-g-safonovo-v-msk-67.59094/
+	г.Дубна (Московская область) - найти https://geodesist.ru/threads/parametry-perexoda-sk-g-dubna-moskovskaja-oblast.59147/
+	г. Сланцы(Лен.обл.) - найти https://geodesist.ru/threads/g-slancy-len-obl-perevod-iz-sk-63.60510/
+	г.Рыбное Рязанская область - найти https://geodesist.ru/threads/msk-g-rybnoe-rjazanskaja-oblast.57695/
+	СК-№184 (г. Норильк), которая образована от СК-95 (Зона 15), либо строительная Кайеркан https://geodesist.ru/threads/isxodnye-punkty-norilsk-valjok-dudinka.88339/
+	Курильские острова каждый имеет свою СК https://geodesist.ru/threads/nuzhna-pomosch-po-kurilskim-ostrovam.80058/#post-904654
+	на Сахалине в каждом районе своя система координат https://geodesist.ru/threads/sk-koordinat-o-saxalin.16738/#post-234783
+	Высокоточная координатная система РЖД - найти материалы https://geodesist.ru/threads/pereschet-iz-msk-regiona-v-vysokotochnuju-koordinatnuju-sistemu-oao-rzhd.84796/
+	МСК-84, г. Диксон, Красноярский край, Диксоне МСК-84_1 - найти https://geodesist.ru/threads/dikson-problemy-perescheta.58818/
+	г. Невинномысск - найти https://geodesist.ru/threads/punkty-ggs-po-nevinnomyssku.56929/
+	г. Сланцы, ЛО - найти/пересчитать из файлов https://geodesist.ru/threads/isxodnye-dannye-g-slancy.49305/, https://geodesist.ru/threads/chto-za-sistema-koordinat.14115/
+	г. Губкин Белгородской области - найти https://geodesist.ru/threads/gorodskaja-sistema-koordinat-goroda-gubkin-belgorodskoj-oblasti.54903/
+	Удмуртия, Нижний Юсь - какие-то параметры найти https://geodesist.ru/threads/koordinaty-ggs-v-sk-42.52622/
+	Подпорожский район, ЛО - найти https://geodesist.ru/threads/msk-podporozhskogo-r-na-leningradskoj-obl.49564/
+	г. Щёлково Московской области  - найти https://geodesist.ru/threads/schjolkovo.49599/
+	г. Нелидово, Тверская обл - найти https://geodesist.ru/threads/pomogite-perevesti-semku-v-tverskoj-obl.49413/
+	Сахалин. Долинский район, с.Взморье - найти https://geodesist.ru/threads/saxalin-dolinskij-rajon-s-vzmore.48945/
+	Крым. г.Судак - найти https://geodesist.ru/threads/krym-g-sudak.48882/
+	г. Подольск, МО (условная 104) - найти https://geodesist.ru/threads/sk-podolska-uslovnaja-gorodskaja-104.48780/
+	Выборгский район, Ленин обл - найти https://geodesist.ru/threads/parametry-msk-g-vyborg.48733/ (это же не Выборг?), https://geodesist.ru/threads/punkty-privjazki-geodezicheskoj-seti.41801/
+	п.Некоуз, Ярославской области, Некоузкого района. - найти https://geodesist.ru/threads/p-nekouz-jaroslavskaja-obl-nekouzkij-rajon.46833/
+	Карелия, г.Кондопога - найти https://geodesist.ru/threads/karelija-g-kondopoga-pomogite-s-perevodom-koordinat.28593/
+	г. Астрахань - найти https://geodesist.ru/threads/nuzhna-pomosch-geodezistov-iz-astraxani.42425/
+	г. Северск, Томская область - найти https://geodesist.ru/threads/sk-g-seversk-tomskoj-oblasti.21742/
+	г.Магадан - найти https://geodesist.ru/threads/parametry-msk-g-magadan.40299/
+	г. Малая вишера, Новгородская область - найти https://geodesist.ru/threads/novgorodskaja-oblast-malaja-vishera.37822/
+	г. Тула - найти https://geodesist.ru/threads/perevod-tuly.36632/
+	г. Сергиев-Посад - найти https://geodesist.ru/threads/sergiev-posad.34965/ 
+	п. Красный Октябрь, Саратовский район Саратовской области - найти https://geodesist.ru/threads/pomogite-s-parametrami-perexoda-na-sk-saratovskogo-rajona.34245/
+	г. Кандалакша, Мурманской области - найти https://geodesist.ru/threads/kandalaksha-murmanskaja-obl-sk51.33565/
+	г. Горячий Ключ, Краснодарский край - найти https://geodesist.ru/threads/pereschet-sistem-koordinat.6516/page-2
+	г.Балашов, Саратовская область - найти https://geodesist.ru/threads/parametry-g-balashov-i-g-krasnodar.17912/
+	г. Волоколамск, Московская область - найти https://geodesist.ru/threads/pomogite-s-isxodnikami-g-volokolamsk.17706/
+	г. Лодейное поле, Лен область (?) - найти https://geodesist.ru/threads/sk-1963-lodejnoe-pole.17302/
+	г. Приозерск, Лен область - найти https://geodesist.ru/threads/iz-msk-g-priozerska-v-sk-47_zona_2-wgs-84.17110/
+	г. Электросталь, Московской области - найти (МГГТ?) https://geodesist.ru/threads/msk-g-ehlektrostal.12340/
+	аэропорт Домодедово - найти https://geodesist.ru/threads/perevod-iz-sk63-v-mestnuju-sistemu.12108/
+	г. Калуга - найти https://geodesist.ru/threads/sk-g-kalugi.7355/
+	г. Новодвинск, г. Северодвинск - найти https://geodesist.ru/threads/perevod-koordinat-nuzhna-pomosch.7343/
+	г. Владикавказ старая система - найти https://geodesist.ru/threads/perexod-na-mestnuju-sistemu-koordinat-sk-95-iz-gorodskix-sis.7411/
+Пересчитать из материалов:
++	СК МСК88  https://geodesist.ru/threads/msk-88.25625/page-2#post-589175, https://geodesist.ru/threads/msk-88.25625/page-3#post-622744 
++	СК 88 Мирнинский район 8,1001,7,111,0,1,500000.003,0 https://geodesist.ru/threads/msk-88.25625/page-7#post-895381
++	СК 88 Ленский район 8, 1001, 7, 111, 0, 1, 9500000, 0  https://geodesist.ru/threads/msk-88.25625/page-8#post-966179
++	МСК г. Вуктыл Республика Коми (МСК 11 - 5, aka МСК17) https://geodesist.ru/threads/vuktyl-respublika-komi.71773/#post-820479
++	п. Коротчаево ЯМАЛ пересчитать https://geodesist.ru/threads/sistema-koordinat-jamala.42481/#post-984394 + "--- Местная система координат пгт. Коротчаево Уралгеодезия ---" "GK (Korotchaevo)", 8, 1001, 7, 78.05, 0, 1.0, 50000, -7261057.63 https://geodesist.ru/threads/sistema-koordinat-jamala.42481/page-2#post-984494
++	Южно-Сахалинск https://geodesist.ru/threads/parametry-msk-juzhno-saxalinska.27981/page-2#post-588907, !!! https://geodesist.ru/threads/parametry-msk-juzhno-saxalinska.27981/page-3#post-1085287
+-	СК63 зона 4 КРЫМ https://geodesist.ru/threads/zakaz-punktov-i-kart-v-krymu.26614/page-38#post-925534
+	МСК-65 Ногликский район https://gis-lab.info/forum/viewtopic.php?f=34&p=184476#p184476, https://geodesist.ru/threads/sistema-koordinat-noglikskogo-rajona-o-saxalin.55395/#post-1095410
+	МСК-65 Охинский район https://geodesist.ru/threads/parametry-gorodskoj-okrug-oxinskij.69849/#post-1095191, https://gis-lab.info/forum/viewtopic.php?f=34&t=28595&view=unread#p184437
+-	МСК-55 Омск город АФФ https://geodesist.ru/threads/msk-g-omsk.88879/#post-1028623, https://geodesist.ru/threads/msk-g-omsk.88879/#post-1093896
+	МСК-70 Томск АФФ https://geodesist.ru/threads/mestnaja-sk-g-tomsk.93057/#post-1092129
++	п. Харп https://geodesist.ru/threads/sistema-koordinat-sk-63-mapinfow-prj.18317/page-6#post-1040450
++?	г. Подольск - пересчитать из чего-то https://geodesist.ru/threads/mestnaja-sistema-koordinat-104-g-podolsk-moskovskoj-oblasti.90898/#post-1058967
+	г. Тверь - по 2 точкам принять сдвиг и угол поворота, и по нему TODO нагенерить и посчитать https://geodesist.ru/threads/sistema-koordinat.90503/
++	Курганская область, Кетовский район " ск42 11 зона со смещением на юг 5 889 000 и на запад 11 123 000" https://geodesist.ru/threads/nuzhny-parametry-msk-kurganskoj-obl.49339/#post-821234 "СК МСТ (Кетовский)", 8, 1001, 7, 63, 0, 1, 377000, -5889000 
+	г. Архангельск, найти ешё https://geodesist.ru/threads/parametry-goroda-arxangelska.73722/, + https://geodesist.ru/threads/punkty-ggs-arxangelsk.78203/#post-890212, + https://geodesist.ru/threads/pereschet-iz-sk-g-arxangelska-v-msk29-2-zona.15627/#post-311587
+	Сахалин, местная Холмск - пересчитать в обычный вид https://geodesist.ru/threads/saxalin-parametry-mestnoj-sk-goroda-xolmsk.88694/
+-	г. Махачкала - пересчитать из https://geodesist.ru/threads/msk-05_95-sk-g-maxachkaly.26194/#post-375772
+	г. Дзержинск (отменена в 2019) https://geodesist.ru/threads/nuzhny-koordinaty-punktov-nizhegorodskaja-oblast.87751/#post-1010077
+	г. Воркута - посчитать https://geodesist.ru/threads/msk-g-vorkuta-parametry.85788/
+	Балаковский район, Саратовская обл. - пересчитать из https://geodesist.ru/threads/parametry-perexoda-balakovskij-rajon-saratovskoj-oblasti.35786/page-2#post-979653 (второй вариант районной СК)
+	МСК-150, сделать с польз. датумом из https://geodesist.ru/threads/msk-150.18986/page-6#post-791980
+	г. Екатеринбург добавить вторую на АФФ-основе https://geodesist.ru/threads/pomogite-pereschitat-koordinaty-iz-msk-66-v-sk-g-ekaterinburga.38181/#post-450897
+	Карелия, Кемский район до 2010г - пересчитать https://geodesist.ru/threads/perevod-iz-mestnoj-sk-kemskogo-rajona-karelii-v-msk-10.20230/
+	ЯНАО, Приуральский район - посчитать по точкам в 2 ск https://geodesist.ru/threads/pereschet-iz-63-goda-v-pulkovo-42-v-dvux-raznyx-programmax.68399/
+	Коротчаево, ЯНАО - пересчитать из аффинной https://geodesist.ru/threads/nerazberixa-s-sk-v-n-urengoe.32925/#post-412163
+	г. Сургут - АФФ ппеерсчитать https://geodesist.ru/threads/perevod-msk-86.59742/#post-664440
+	г. Нижний Тагил - пересчитать из афф https://geodesist.ru/threads/mestnaja-sk-g-nizhnij-tagil.39710/#post-461967
+	г. Новосибирск второй вариант - как-то пересчитать https://geodesist.ru/threads/parametry-sk.28607/
+
+
+СТОП
+https://geodesist.ru/forums/isxodnye-dannye.61/page-99
+Тосненский р-н.Гатчинский р-н.омс
+
+
+Как с геобриджа тырить https://geodesist.ru/threads/mestnye-sistemy-koordinat-gorodov.12174/page-6#post-964691
+--- Прочие массовые ----
+СК 63 Найти параметры районов B, H
+МСК на СК95 найти - МСК-08 (Калмыкия),  МСК-54 (Новосибирская область), МСК-55 (Омская область), МСК-72 (Тюменская область) - это же не новые 3 шт?,
+
+Красноряский край, найти по П/0609 от 21.12.2009 "О местных системах координат, используемых для ведения государственного кадастра недвижимости на территории Красноярского края"  г. Кодинск, №44 (г. Ачинск), №20 (г. Боготол), №9 (г. Бородино), КАТЭК-9а, №14 (г. Минусинск), №18 (г.Назарово), №184, КАТЭК-зап., местная (заказ0304), местная (заказ0309)
+Приморье - около 70 МСК https://geodesist.ru/threads/primorskij-kraj-g-usurijsk.34690/
+
+--- Другие страны ----
+Украина УСК-2000 - датум https://geodesist.ru/threads/usk-2000-dozhdalis-ukraina-perexodit-na-novuju-sk.15321/#post-238688
+
+Казахстан https://base.spinform.ru/show_doc.fwx?rgn=161839
+Абхазия https://geodesist.ru/threads/druzhestvennaja-respublika-abxazija.55211/
+Туркменистан https://geodesist.ru/threads/sistema-koordinat-turkmenistana.16329/
+
+СК-70 для Болгарии https://geodesist.ru/threads/state-coordinate-system-ukraine.7349/#post-160181
+---
+
+291 766.49‬
