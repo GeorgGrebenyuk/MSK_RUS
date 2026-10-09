@@ -1,0 +1,8 @@
+Datum_code	Datum_Descr	HelmetrTr_Descr	Ellipsoid_Source	Ellipsoid_Target	FormulaType	DX, м	DY, м	DZ, м	RX, сек	RY, сек	RZ, сек	S, ppm	Bound_W	Bound_E	Bound_S	Bound_N	Source	Comment
+RUS-MGGT			EPSG:7004	EPSG:4326	Coordinate Frame Rotation (geog2D domain)	316.151	78.924	589.65	-1.57273	-2.69209	-0.000651925	8.4507e-06	36	40	54	57	geodesist	
+RUS-Pulkovo42_5044	For geodetic crs EPSG:4284	aka EPSG:5044	EPSG:7024	EPSG:4326	Coordinate Frame rotation (geog2D domain)	23.57	-140.95	-79.8	0	-0.35	-0.79	-0.22	35	180	14	89	GOST_32453-2017	
+RUS-Pulkovo95_5043	For geodetic crs EPSG:4200	aka EPSG:5043	EPSG:7024	EPSG:4326	Coordinate Frame rotation (geog2D domain)	24.47	-130.89	-81.56	0	0	-0.13	-0.22	35	180	14	89	GOST_32453-2017	
+RUS-Pulkovo42_1267	For geodetic crs EPSG:4284	aka EPSG:1267	EPSG:7024	EPSG:4326	Coordinate Frame rotation (geog2D domain)	23.92	-141.27	-80.9	0	-0.35	-0.82	-0.12	35	180	14	89	GOST R 51794-2001	
+RUS-GSK2011_9773	For geodetic crs EPSG:7683	aka EPSG:9773	EPSG:1025	EPSG:4326	Coordinate Frame rotation (geog2D domain)	0	0	0	0	0	0	0	35	180	14	89	EPSG:9773	
+UCS-2000-1	For geodetic crs EPSG:5561	aka EPSG:5590	EPSG:7024	EPSG:4326	Coordinate Frame rotation (geog2D domain)	25	-141	-78.5	0	-0.35	-0.736	0	20	43	42	54	EPSG:5590	
+UCS-2000-2	For geodetic crs EPSG:5561	aka EPSG:5840	EPSG:7024	EPSG:4326	Coordinate Frame rotation (geog2D domain)	24	-121	-76	0	0	0	0	20	43	42	54	EPSG:5840	

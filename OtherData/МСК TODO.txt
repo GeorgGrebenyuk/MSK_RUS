@@ -76,7 +76,7 @@
 	МСК-70 Томск АФФ https://geodesist.ru/threads/mestnaja-sk-g-tomsk.93057/#post-1092129
 +	п. Харп https://geodesist.ru/threads/sistema-koordinat-sk-63-mapinfow-prj.18317/page-6#post-1040450
 +?	г. Подольск - пересчитать из чего-то https://geodesist.ru/threads/mestnaja-sistema-koordinat-104-g-podolsk-moskovskoj-oblasti.90898/#post-1058967
-	г. Тверь - по 2 точкам принять сдвиг и угол поворота, и по нему TODO нагенерить и посчитать https://geodesist.ru/threads/sistema-koordinat.90503/
+	г. Тверь - найти https://geodesist.ru/threads/sistema-koordinat.90503/
 +	Курганская область, Кетовский район " ск42 11 зона со смещением на юг 5 889 000 и на запад 11 123 000" https://geodesist.ru/threads/nuzhny-parametry-msk-kurganskoj-obl.49339/#post-821234 "СК МСТ (Кетовский)", 8, 1001, 7, 63, 0, 1, 377000, -5889000 
 	г. Архангельск, найти ешё https://geodesist.ru/threads/parametry-goroda-arxangelska.73722/, + https://geodesist.ru/threads/punkty-ggs-arxangelsk.78203/#post-890212, + https://geodesist.ru/threads/pereschet-iz-sk-g-arxangelska-v-msk29-2-zona.15627/#post-311587
 	Сахалин, местная Холмск - пересчитать в обычный вид https://geodesist.ru/threads/saxalin-parametry-mestnoj-sk-goroda-xolmsk.88694/
@@ -90,17 +90,15 @@
 	ЯНАО, Приуральский район - посчитать по точкам в 2 ск https://geodesist.ru/threads/pereschet-iz-63-goda-v-pulkovo-42-v-dvux-raznyx-programmax.68399/
 	Коротчаево, ЯНАО - пересчитать из аффинной https://geodesist.ru/threads/nerazberixa-s-sk-v-n-urengoe.32925/#post-412163
 	г. Сургут - АФФ ппеерсчитать https://geodesist.ru/threads/perevod-msk-86.59742/#post-664440
-	г. Нижний Тагил - пересчитать из афф https://geodesist.ru/threads/mestnaja-sk-g-nizhnij-tagil.39710/#post-461967
-	г. Новосибирск второй вариант - как-то пересчитать https://geodesist.ru/threads/parametry-sk.28607/
+-	г. Нижний Тагил - пересчитать из афф https://geodesist.ru/threads/mestnaja-sk-g-nizhnij-tagil.39710/#post-461967
+-	г. Новосибирск второй вариант - как-то пересчитать https://geodesist.ru/threads/parametry-sk.28607/
 
 
 СТОП
-https://geodesist.ru/forums/isxodnye-dannye.61/page-99
-Тосненский р-н.Гатчинский р-н.омс
 
 
-Как с геобриджа тырить https://geodesist.ru/threads/mestnye-sistemy-koordinat-gorodov.12174/page-6#post-964691
---- Прочие массовые ----
+Как с геобриджа тырить https://geodesist.ru/threads/mestnye-sistemy-koordinat-gorodov.12174/page-6#post-964691 (https://geobridge.ru/proj/api а потом (de-)base64. )
+--- Прочие массовые для РФ----
 СК 63 Найти параметры районов B, H
 МСК на СК95 найти - МСК-08 (Калмыкия),  МСК-54 (Новосибирская область), МСК-55 (Омская область), МСК-72 (Тюменская область) - это же не новые 3 шт?,
 
@@ -108,13 +106,19 @@ https://geodesist.ru/forums/isxodnye-dannye.61/page-99
 Приморье - около 70 МСК https://geodesist.ru/threads/primorskij-kraj-g-usurijsk.34690/
 
 --- Другие страны ----
-Украина УСК-2000 - датум https://geodesist.ru/threads/usk-2000-dozhdalis-ukraina-perexodit-na-novuju-sk.15321/#post-238688
-
-Казахстан https://base.spinform.ru/show_doc.fwx?rgn=161839
-Абхазия https://geodesist.ru/threads/druzhestvennaja-respublika-abxazija.55211/
-Туркменистан https://geodesist.ru/threads/sistema-koordinat-turkmenistana.16329/
-
+-- Украина
+УСК-2000 - датум https://geodesist.ru/threads/usk-2000-dozhdalis-ukraina-perexodit-na-novuju-sk.15321/#post-238688
+посмотреть что это такое https://library.knuba.edu.ua/books/zbirniki/02/2016/201659.pdf
+просмотреть форум на предмет МСК городов https://zemres.com/forum/viewforum.php?f=144
+--- Казахстан
+https://base.spinform.ru/show_doc.fwx?rgn=161839 - нужно будет обновить на эти - https://adilet.zan.kz/rus/docs/G26IPM00254#z7
+Порыться по форумам за региональными СК, ещё СК городов
+---Абхазия
+https://geodesist.ru/threads/druzhestvennaja-respublika-abxazija.55211/
+--- Туркменистан
+https://geodesist.ru/threads/sistema-koordinat-turkmenistana.16329/
+---  Беларусь
+скопировать материалы из другой российской локализации (TODO)
+---
 СК-70 для Болгарии https://geodesist.ru/threads/state-coordinate-system-ukraine.7349/#post-160181
 ---
-
-291 766.49‬
