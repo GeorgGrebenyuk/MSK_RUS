@@ -27,6 +27,8 @@ P.S. md-файлы редактируются с помощью Obsidian, дан
 | AutodeskCSLibrary_CSD.zip | Архив из конфигурационных CSD-файлов, описывающих пользовательскую библиотеку систем координат в Autodesk AutoCAD Map 3D<br>Размещать в `%LOCALAPPDATA%\Autodesk\User Geospatial Coordinate Systems`  |
 | OsgeoProjDb.sql           | SQL-запрос на добавление определений в базу данных proj.db (OSGeo PROJ). Используется в QGIS и многих других open source ГИС-продуктах.<br>Добавлять через CLI или вручную используя менеджеры SQLite |
 
+Подробные инструкции по использованию определений МСК в продуктах Autodesk см. в [другом репозитории](https://github.com/GeorgGrebenyuk/MSK_for-Autodesk-Civil-3D), исторически он был первым, в него дублируются представленные выше файлы для важных версий.
+
 TODO:
 - файл определений для MapInfo;
 - файл определений в XML для ГИС "Панорама";
