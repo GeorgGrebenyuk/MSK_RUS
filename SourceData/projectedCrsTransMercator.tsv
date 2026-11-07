@@ -1,4 +1,5 @@
 Name	GK	Long	Lat	Scale	FE	FN	Bound_W	Bound_E	Bound_S	Bound_N	Datum	DescrRU	DescrEN	Tags	Source	Comment
+0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
 RUS-DNR-SK63-Zone1	+	36	0	1	250000	0	36	40	46	50	RUS-Pulkovo42_5044	Донецкая народная республика, СК-63 Зона 1 (CM 36.0)	Donetsk People Republic, SK-63 Zone 1 (CM 36.0)	ru;region	Постановление ДНР от 13.09.2018 2-17	
 RUS-DNR-SK63-Zone2	+	39	0	1	250000	0	39	40	46	50	RUS-Pulkovo42_5044	Донецкая народная республика, СК-63 Зона 2 (CM 39.0)	Donetsk People Republic, SK-63 Zone 2 (CM 39.0)	ru;region	Постановление ДНР от 13.09.2018 2-17	
 RUS-GSK2011-GK3-CM102E	+	102	0	1	250000	0	100	104	15	85	RUS-GSK2011_9773		GSK-2011 / Gauss-Kruger CM 102E (3 degree) aka EPSG:17134	ru;gsk2011	proj, epsg	
@@ -317,144 +318,144 @@ RUS-MSK27-Zone3	+	136.71666666666	0	1	3300000	-4916586.44	128	152	44	65	RUS-Pulk
 RUS-MSK27-Zone4	+	139.71666666666	0	1	4300000	-4916586.44	128	152	44	65	RUS-Pulkovo42_5044	Хабаровский край, МСК-27 зона 4	Khabarovsk Territory, LCS-27 zone 4	ru;region		
 RUS-MSK27-Zone5	+	142.71666666666	0	1	5300000	-4916586.44	128	152	44	65	RUS-Pulkovo42_5044	Хабаровский край, МСК-27 зона 5	Khabarovsk Territory, LCS-27 zone 5	ru;region		
 RUS-MSK27-Zone6	+	145.71666666666	0	1	6300000	-4916586.44	128	152	44	65	RUS-Pulkovo42_5044	Хабаровский край, МСК-27 зона 6	Khabarovsk Territory, LCS-27 zone 6	ru;region		
-RUS-MSK28-Blagoveshchen	+	127.483333333	0	1	21267.441	-5556782.26	128	129	49	52	RUS-Pulkovo42_5044	г. Благовещенск, Амурская область (МСК-1994)	Blagoveshchensk towm, Amur Region (aka LCS-1994)	ru;town	geobridge	
-RUS-MSK28-Zone1	+	121.71666666666	0	1	1300000	-5116586.44	107	140	40	59	RUS-Pulkovo42_5044	Амурская область, МСК-28 зона 1	Amur Region, LCS-28 zone 1	ru;region		
-RUS-MSK28-Zone2	+	124.71666666666	0	1	2300000	-5116586.44	107	140	40	59	RUS-Pulkovo42_5044	Амурская область, МСК-28 зона 2	Amur Region, LCS-28 zone 2	ru;region		
-RUS-MSK28-Zone3	+	127.71666666666	0	1	3300000	-5116586.44	107	140	40	59	RUS-Pulkovo42_5044	Амурская область, МСК-28 зона 3	Amur Region, LCS-28 zone 3	ru;region		
-RUS-MSK28-Zone4	+	130.71666666666	0	1	4300000	-5116586.44	107	140	40	59	RUS-Pulkovo42_5044	Амурская область, МСК-28 зона 4	Amur Region, LCS-28 zone 4	ru;region		
-RUS-MSK28-Zone5	+	133.71666666666	0	1	5300000	-5116586.44	107	140	40	59	RUS-Pulkovo42_5044	Амурская область, МСК-28 зона 5	Amur Region, LCS-28 zone 5	ru;region		
-RUS-MSK29-Zone1	+	32.03333333333	0	1	1400000	-6511057.628	33	73	59	83	RUS-Pulkovo42_5044	Архангельская область, МСК-29 зона 1	Archangel Region, LCS-29 zone 1	ru;region		
-RUS-MSK29-Zone2	+	38.03333333333	0	1	2400000	-6511057.628	33	73	59	83	RUS-Pulkovo42_5044	Архангельская область, МСК-29 зона 2	Archangel Region, LCS-29 zone 2	ru;region		
-RUS-MSK29-Zone3	+	44.03333333333	0	1	3400000	-6511057.628	33	73	59	83	RUS-Pulkovo42_5044	Архангельская область, МСК-29 зона 3	Archangel Region, LCS-29 zone 3	ru;region		
-RUS-MSK29-Zone4	+	50.03333333333	0	1	4400000	-6511057.628	33	73	59	83	RUS-Pulkovo42_5044	Архангельская область, МСК-29 зона 4	Archangel Region, LCS-29 zone 4	ru;region		
-RUS-MSK29-Zone5	+	56.03333333333	0	1	5400000	-6511057.628	33	73	59	83	RUS-Pulkovo42_5044	Архангельская область, МСК-29 зона 4	Archangel Region, LCS-29 zone 4	ru;region		
-RUS-MSK30-Zone1	+	46.05	0	1	1300000	-4714743.504	42	50	41	50	RUS-Pulkovo42_5044	Астраханская область, МСК-30 зона 1	Astrakhan Region, LCS-30 zone 1	ru;region		
-RUS-MSK30-Zone2	+	49.05	0	1	2300000	-4714743.504	42	50	41	50	RUS-Pulkovo42_5044	Астраханская область, МСК-30 зона 2	Astrakhan Region, LCS-30 zone 2	ru;region		
-RUS-MSK31-Belgorod	+	36	0	1	22200.083	-5597800.098	33	41	49	53	RUS-Pulkovo42_5044	г. Белгород, Белгородская область	Belgorod town, Belgorod Region	ru;town	geodesist	
-RUS-MSK31-Zone1	+	35.48333333333	0	1	1250000	-5212900.56	33	41	49	53	RUS-Pulkovo42_5044	Белгородская область, МСК-31 зона 1	Belgorod Region, LCS-31 zone 1	ru;region		
-RUS-MSK31-Zone2	+	38.48333333333	0	1	2250000	-5212900.56	33	41	49	53	RUS-Pulkovo42_5044	Белгородская область, МСК-31 зона 2	Belgorod Region, LCS-31 zone 2	ru;region		
-RUS-MSK32-Zone1	+	32.48333333333	0	1	1250000	-5412900.56	30	38	51	55	RUS-Pulkovo42_5044	Брянская область, МСК-32 зона 1	Bryansk Region, LCS-32 zone 1	ru;region		
-RUS-MSK32-Zone2	+	35.48333333333	0	1	2250000	-5412900.56	30	38	51	55	RUS-Pulkovo42_5044	Брянская область, МСК-32 зона 2	Bryansk Region, LCS-32 zone 2	ru;region		
-RUS-MSK33-SK95-1	+	39	0	1	134156.988	-6032524.376	36	44	53	58	RUS-Pulkovo95_5043	Владимирская область (от СК 95), МСК-33, вар. 1 (популярный)	Vladimir Region (based SK-95), LCS-33, var. 1	ru;region	MAPINFOW	
-RUS-MSK33-SK95-2	+	39	0	1	134035.018	-6032505.783	36	44	53	58	RUS-Pulkovo95_5043	Владимирская область (от СК 95), МСК-33, вар. 2 (ГЕОМОСТ, geobridge)	Vladimir Region (based SK-95), LCS-33, var. 2	ru;region	ГЕОМОСТ, geobridge	
-RUS-MSK33-Zone1	+	38.55	0	1	1250000	-5814743.504	36	44	53	58	RUS-Pulkovo42_5044	Владимирская область, МСК-33 зона 1	Vladimir Region, LCS-33 zone 1	ru;region		
-RUS-MSK33-Zone2	+	41.55	0	1	2250000	-5814743.504	36	44	53	58	RUS-Pulkovo42_5044	Владимирская область, МСК-33 зона 2	Vladimir Region, LCS-33 zone 2	ru;region		
-RUS-MSK33-Zone3	+	44.55	0	1	3250000	-5814743.504	36	44	53	58	RUS-Pulkovo42_5044	Владимирская область, МСК-33 зона 3	Vladimir Region, LCS-33 zone 3	ru;region		
-RUS-MSK34-Frolovo	+	45	0	1	155000	-5475000	41	48	46	52	RUS-Pulkovo42_5044	г. Фролово, Волгоградская область (от EPSG:28408)	Frolovo town, Volgograd Region (by EPSG:28408)	ru;town	geodesist	
-RUS-MSK34-Mikhailovka	+	45	0	1	108.716	-5515000	41	48	46	52	RUS-Pulkovo42_5044	г. Михайловка, Волгоградская область	Mikhailovka town, Volgograd Region	ru;town	geodesist	
-RUS-MSK34-Staropoltavsk	+	45	0	1	100000	-5500000	41	48	46	52	RUS-Pulkovo42_5044	Старополтавский район, Волгоградская область	Staropoltavsky district, Volgograd Region	ru;region	geodesist	
-RUS-MSK34-Volgograd-1	+	44.513888889	0	1	145000	-5515000	41	48	46	52	RUS-Pulkovo42_5044	г. Волгоград, Волгоградская область, вар. 1	Volgograd town, Volgograd oblast, var. 1	ru;town	geodesist	
-RUS-MSK34-Volgograd-2	+	44.5133333333	0	1	145000	-5397448.283	41	48	46	52	RUS-Pulkovo42_5044	г. Волгоград, Волгоградская область, вар. 2	Volgograd town, Volgograd oblast, var. 2	ru;town	geodesist	
-RUS-MSK34-Volgograd-3	+	44.5118621528	0	1	0.0768	-5397448.4	41	48	46	52	RUS-Pulkovo42_5044	г. Волгоград, Волгоградская область, вар. 2	Volgograd town, Volgograd oblast, var. 2	ru;town	geodesist	
-RUS-MSK34-Volzhsky-1	+	45	0	1	45000	-5375000	41	48	46	52	RUS-Pulkovo42_5044	Волжский район, Волгоградская область, вар.1	Volzhsky district, Volgograd Region, var. 1	ru;region	geodesist	
-RUS-MSK34-Volzhsky-2	+	45	0	1	3250000	-11057.628	41	48	46	52	RUS-Pulkovo42_5044	Волжский район, Волгоградская область, вар.2	Volzhsky district, Volgograd Region, var. 2	ru;region	geodesist	
-RUS-MSK34-Zone1	+	43.05	0	1	1300000	-4914743.504	41	48	46	52	RUS-Pulkovo42_5044	Волгоградская область, МСК-34 зона 1	Volgograd Region, LCS-34 zone 1	ru;region		
-RUS-MSK34-Zone2	+	46.05	0	1	2300000	-4914743.504	41	48	46	52	RUS-Pulkovo42_5044	Волгоградская область, МСК-34 зона 2	Volgograd Region, LCS-34 zone 2	ru;region		
-RUS-MSK35-Zone1	+	35.55	0	1	1250000	-6214743.504	34	48	57	63	RUS-Pulkovo42_5044	Волгоградская область, МСК-34 зона 3	Vologda Region, LCS-35 zone 1	ru;region		
-RUS-MSK35-Zone2	+	38.55	0	1	2250000	-6214743.504	34	48	57	63	RUS-Pulkovo42_5044	Волгоградская область, МСК-34 зона 4	Vologda Region, LCS-35 zone 2	ru;region		
-RUS-MSK35-Zone3	+	41.55	0	1	3250000	-6214743.504	34	48	57	63	RUS-Pulkovo42_5044	Волгоградская область, МСК-34 зона 5	Vologda Region, LCS-35 zone 3	ru;region		
-RUS-MSK35-Zone4	+	44.55	0	1	4250000	-6214743.504	34	48	57	63	RUS-Pulkovo42_5044	Волгоградская область, МСК-34 зона 6	Vologda Region, LCS-35 zone 4	ru;region		
-RUS-MSK35-Zone5	+	47.55	0	1	5250000	-6214743.504	34	48	57	63	RUS-Pulkovo42_5044	Волгоградская область, МСК-34 зона 7	Vologda Region, LCS-35 zone 5	ru;region		
-RUS-MSK36-Voronezh		39.811102235812	0	1.00782028375419	-42781.64	-507752.774	38	44	49	53	RUS-Pulkovo42_5044	г. Воронеж, Воронежская область	Voronezh town, Voronezh Region	ru;town	geodesist	
-RUS-MSK36-Zone1	+	38.48333333333	0	1	1250000	-5212900.566	38	44	49	53	RUS-Pulkovo42_5044	Воронежская область, МСК-36 зона 1	Voronezh Region, LCS-36 zone 1	ru;region		
-RUS-MSK36-Zone2	+	41.48333333333	0	1	2250000	-5212900.566	38	44	49	53	RUS-Pulkovo42_5044	Воронежская область, МСК-36 зона 2	Voronezh Region, LCS-36 zone 2	ru;region		
-RUS-MSK37-Ivanovo	+	43.8923178860917	0	0.999636470585922	176785.597	-6320843.043	39	44	56	59	RUS-Pulkovo42_5044	г. Иваново, Ивановская область	Ivanovo town, Ivanovo Region	ru;town	geodesist;cplanelite	
-RUS-MSK37-Zone1	+	38.55	0	1	1250000	-6014743.504	39	44	56	59	RUS-Pulkovo42_5044	Ивановская область, МСК-37 зона 1	Ivanovo Region, LCS-37 zone 1	ru;region		
-RUS-MSK37-Zone2	+	41.55	0	1	2250000	-6014743.504	39	44	56	59	RUS-Pulkovo42_5044	Ивановская область, МСК-37 зона 2	Ivanovo Region, LCS-37 zone 2	ru;region		
-RUS-MSK38-Zone1	+	97.03333333333	0	1	1250000	-5411057.63	94	125	48	66	RUS-Pulkovo42_5044	Иркутская область, МСК-38 зона 1	Irkutsk Region, LCS-38 zone 1	ru;region		
-RUS-MSK38-Zone2	+	100.03333333333	0	1	2250000	-5411057.63	94	125	48	66	RUS-Pulkovo42_5044	Иркутская область, МСК-38 зона 2	Irkutsk Region, LCS-38 zone 2	ru;region		
-RUS-MSK38-Zone3	+	103.03333333333	0	1	3250000	-5411057.63	94	125	48	66	RUS-Pulkovo42_5044	Иркутская область, МСК-38 зона 3	Irkutsk Region, LCS-38 zone 3	ru;region		
-RUS-MSK38-Zone4	+	106.03333333333	0	1	4250000	-5411057.63	94	125	48	66	RUS-Pulkovo42_5044	Иркутская область, МСК-38 зона 4	Irkutsk Region, LCS-38 zone 4	ru;region		
-RUS-MSK38-Zone5	+	109.03333333333	0	1	5250000	-5411057.63	94	125	48	66	RUS-Pulkovo42_5044	Иркутская область, МСК-38 зона 5	Irkutsk Region, LCS-38 zone 5	ru;region		
-RUS-MSK38-Zone6	+	112.03333333333	0	1	6250000	-5411057.63	94	125	48	66	RUS-Pulkovo42_5044	Иркутская область, МСК-38 зона 6	Irkutsk Region, LCS-38 zone 6	ru;region		
-RUS-MSK38-Zone7	+	115.03333333333	0	1	7250000	-5411057.63	94	125	48	66	RUS-Pulkovo42_5044	Иркутская область, МСК-38 зона 7	Irkutsk Region, LCS-38 zone 7	ru;region		
-RUS-MSK38-Zone8	+	118.03333333333	0	1	8250000	-5411057.63	94	125	48	66	RUS-Pulkovo42_5044	Иркутская область, МСК-38 зона 8	Irkutsk Region, LCS-38 zone 8	ru;region		
-RUS-MSK39	+	21.45	0	1	1250000	-5711057.628	19	24	53	56	RUS-Pulkovo42_5044	Калининградская область, МСК-39	Kaliningrad Region, LCS-39	ru;region		
-RUS-MSK39-1963	+	21.95	0	1	249994.237	-11061.814	19	24	53	56	RUS-Pulkovo42_5044	Калининградская область, СК-1963	Kaliningrad Region, LCS-1963	ru;region	geobridge	
-RUS-MSK39-Kaliningrad	+	21	0	1	42499.783	-6058499.803	19	24	53	56	RUS-Pulkovo42_5044	г. Калининград, Калининградская область	Kaliningrad town, Kaliningrad Region	ru;town	geodesist	
-RUS-MSK40	+	35.48333333333	0	1	1250000	-5612900.566	33	38	52	56	RUS-Pulkovo42_5044	Калужская область, МСК-40	Kaluga Region, LCS-40	ru;region		
+RUS-MSK28-Blagoveshchen	+	127.483333333	0	1	21267.441	-5556782.26	128	129	49	52	RUS-Pulkovo42_5044	г. Благовещенск, Амурская область (МСК-1994)	Blagoveshchensk towm, Amur region (aka LCS-1994)	ru;town	geobridge	
+RUS-MSK28-Zone1	+	121.71666666666	0	1	1300000	-5116586.44	107	140	40	59	RUS-Pulkovo42_5044	Амурская область, МСК-28 зона 1	Amur region, LCS-28 zone 1	ru;region		
+RUS-MSK28-Zone2	+	124.71666666666	0	1	2300000	-5116586.44	107	140	40	59	RUS-Pulkovo42_5044	Амурская область, МСК-28 зона 2	Amur region, LCS-28 zone 2	ru;region		
+RUS-MSK28-Zone3	+	127.71666666666	0	1	3300000	-5116586.44	107	140	40	59	RUS-Pulkovo42_5044	Амурская область, МСК-28 зона 3	Amur region, LCS-28 zone 3	ru;region		
+RUS-MSK28-Zone4	+	130.71666666666	0	1	4300000	-5116586.44	107	140	40	59	RUS-Pulkovo42_5044	Амурская область, МСК-28 зона 4	Amur region, LCS-28 zone 4	ru;region		
+RUS-MSK28-Zone5	+	133.71666666666	0	1	5300000	-5116586.44	107	140	40	59	RUS-Pulkovo42_5044	Амурская область, МСК-28 зона 5	Amur region, LCS-28 zone 5	ru;region		
+RUS-MSK29-Zone1	+	32.03333333333	0	1	1400000	-6511057.628	33	73	59	83	RUS-Pulkovo42_5044	Архангельская область, МСК-29 зона 1	Archangel region, LCS-29 zone 1	ru;region		
+RUS-MSK29-Zone2	+	38.03333333333	0	1	2400000	-6511057.628	33	73	59	83	RUS-Pulkovo42_5044	Архангельская область, МСК-29 зона 2	Archangel region, LCS-29 zone 2	ru;region		
+RUS-MSK29-Zone3	+	44.03333333333	0	1	3400000	-6511057.628	33	73	59	83	RUS-Pulkovo42_5044	Архангельская область, МСК-29 зона 3	Archangel region, LCS-29 zone 3	ru;region		
+RUS-MSK29-Zone4	+	50.03333333333	0	1	4400000	-6511057.628	33	73	59	83	RUS-Pulkovo42_5044	Архангельская область, МСК-29 зона 4	Archangel region, LCS-29 zone 4	ru;region		
+RUS-MSK29-Zone5	+	56.03333333333	0	1	5400000	-6511057.628	33	73	59	83	RUS-Pulkovo42_5044	Архангельская область, МСК-29 зона 4	Archangel region, LCS-29 zone 4	ru;region		
+RUS-MSK30-Zone1	+	46.05	0	1	1300000	-4714743.504	42	50	41	50	RUS-Pulkovo42_5044	Астраханская область, МСК-30 зона 1	Astrakhan region, LCS-30 zone 1	ru;region		
+RUS-MSK30-Zone2	+	49.05	0	1	2300000	-4714743.504	42	50	41	50	RUS-Pulkovo42_5044	Астраханская область, МСК-30 зона 2	Astrakhan region, LCS-30 zone 2	ru;region		
+RUS-MSK31-Belgorod	+	36	0	1	22200.083	-5597800.098	33	41	49	53	RUS-Pulkovo42_5044	г. Белгород, Белгородская область	Belgorod town, Belgorod region	ru;town	geodesist	
+RUS-MSK31-Zone1	+	35.48333333333	0	1	1250000	-5212900.56	33	41	49	53	RUS-Pulkovo42_5044	Белгородская область, МСК-31 зона 1	Belgorod region, LCS-31 zone 1	ru;region		
+RUS-MSK31-Zone2	+	38.48333333333	0	1	2250000	-5212900.56	33	41	49	53	RUS-Pulkovo42_5044	Белгородская область, МСК-31 зона 2	Belgorod region, LCS-31 zone 2	ru;region		
+RUS-MSK32-Zone1	+	32.48333333333	0	1	1250000	-5412900.56	30	38	51	55	RUS-Pulkovo42_5044	Брянская область, МСК-32 зона 1	Bryansk region, LCS-32 zone 1	ru;region		
+RUS-MSK32-Zone2	+	35.48333333333	0	1	2250000	-5412900.56	30	38	51	55	RUS-Pulkovo42_5044	Брянская область, МСК-32 зона 2	Bryansk region, LCS-32 zone 2	ru;region		
+RUS-MSK33-SK95-1	+	39	0	1	134156.988	-6032524.376	36	44	53	58	RUS-Pulkovo95_5043	Владимирская область (от СК 95), МСК-33, вар. 1 (популярный)	Vladimir region (based SK-95), LCS-33, var. 1	ru;region	MAPINFOW	
+RUS-MSK33-SK95-2	+	39	0	1	134035.018	-6032505.783	36	44	53	58	RUS-Pulkovo95_5043	Владимирская область (от СК 95), МСК-33, вар. 2 (ГЕОМОСТ, geobridge)	Vladimir region (based SK-95), LCS-33, var. 2	ru;region	geobridge	
+RUS-MSK33-Zone1	+	38.55	0	1	1250000	-5814743.504	36	44	53	58	RUS-Pulkovo42_5044	Владимирская область, МСК-33 зона 1	Vladimir region, LCS-33 zone 1	ru;region		
+RUS-MSK33-Zone2	+	41.55	0	1	2250000	-5814743.504	36	44	53	58	RUS-Pulkovo42_5044	Владимирская область, МСК-33 зона 2	Vladimir region, LCS-33 zone 2	ru;region		
+RUS-MSK33-Zone3	+	44.55	0	1	3250000	-5814743.504	36	44	53	58	RUS-Pulkovo42_5044	Владимирская область, МСК-33 зона 3	Vladimir region, LCS-33 zone 3	ru;region		
+RUS-MSK34-Frolovo	+	45	0	1	155000	-5475000	41	48	46	52	RUS-Pulkovo42_5044	г. Фролово, Волгоградская область (от EPSG:28408)	Frolovo town, Volgograd region (by EPSG:28408)	ru;town	geodesist	
+RUS-MSK34-Mikhailovka	+	45	0	1	108.716	-5515000	41	48	46	52	RUS-Pulkovo42_5044	г. Михайловка, Волгоградская область	Mikhailovka town, Volgograd region	ru;town	geodesist	
+RUS-MSK34-Staropoltavsk	+	45	0	1	100000	-5500000	41	48	46	52	RUS-Pulkovo42_5044	Старополтавский район, Волгоградская область	Staropoltavsky district, Volgograd region	ru;region	geodesist	
+RUS-MSK34-Volgograd-1	+	44.513888889	0	1	145000	-5515000	41	48	46	52	RUS-Pulkovo42_5044	г. Волгоград, Волгоградская область, вар. 1	Volgograd town, Volgograd region, var. 1	ru;town	geodesist	
+RUS-MSK34-Volgograd-2	+	44.5133333333	0	1	145000	-5397448.283	41	48	46	52	RUS-Pulkovo42_5044	г. Волгоград, Волгоградская область, вар. 2	Volgograd town, Volgograd region, var. 2	ru;town	geodesist	
+RUS-MSK34-Volgograd-3	+	44.5118621528	0	1	0.0768	-5397448.4	41	48	46	52	RUS-Pulkovo42_5044	г. Волгоград, Волгоградская область, вар. 2	Volgograd town, Volgograd region, var. 2	ru;town	geodesist	
+RUS-MSK34-Volzhsky-1	+	45	0	1	45000	-5375000	41	48	46	52	RUS-Pulkovo42_5044	Волжский район, Волгоградская область, вар.1	Volzhsky district, Volgograd region, var. 1	ru;region	geodesist	
+RUS-MSK34-Volzhsky-2	+	45	0	1	3250000	-11057.628	41	48	46	52	RUS-Pulkovo42_5044	Волжский район, Волгоградская область, вар.2	Volzhsky district, Volgograd region, var. 2	ru;region	geodesist	
+RUS-MSK34-Zone1	+	43.05	0	1	1300000	-4914743.504	41	48	46	52	RUS-Pulkovo42_5044	Волгоградская область, МСК-34 зона 1	Volgograd region, LCS-34 zone 1	ru;region		
+RUS-MSK34-Zone2	+	46.05	0	1	2300000	-4914743.504	41	48	46	52	RUS-Pulkovo42_5044	Волгоградская область, МСК-34 зона 2	Volgograd region, LCS-34 zone 2	ru;region		
+RUS-MSK35-Zone1	+	35.55	0	1	1250000	-6214743.504	34	48	57	63	RUS-Pulkovo42_5044	Волгоградская область, МСК-34 зона 3	Vologda region, LCS-35 zone 1	ru;region		
+RUS-MSK35-Zone2	+	38.55	0	1	2250000	-6214743.504	34	48	57	63	RUS-Pulkovo42_5044	Волгоградская область, МСК-34 зона 4	Vologda region, LCS-35 zone 2	ru;region		
+RUS-MSK35-Zone3	+	41.55	0	1	3250000	-6214743.504	34	48	57	63	RUS-Pulkovo42_5044	Волгоградская область, МСК-34 зона 5	Vologda region, LCS-35 zone 3	ru;region		
+RUS-MSK35-Zone4	+	44.55	0	1	4250000	-6214743.504	34	48	57	63	RUS-Pulkovo42_5044	Волгоградская область, МСК-34 зона 6	Vologda region, LCS-35 zone 4	ru;region		
+RUS-MSK35-Zone5	+	47.55	0	1	5250000	-6214743.504	34	48	57	63	RUS-Pulkovo42_5044	Волгоградская область, МСК-34 зона 7	Vologda region, LCS-35 zone 5	ru;region		
+RUS-MSK36-Voronezh		39.811102235812	0	1.00782028375419	-42781.64	-507752.774	38	44	49	53	RUS-Pulkovo42_5044	г. Воронеж, Воронежская область	Voronezh town, Voronezh region	ru;town	geodesist	
+RUS-MSK36-Zone1	+	38.48333333333	0	1	1250000	-5212900.566	38	44	49	53	RUS-Pulkovo42_5044	Воронежская область, МСК-36 зона 1	Voronezh region, LCS-36 zone 1	ru;region		
+RUS-MSK36-Zone2	+	41.48333333333	0	1	2250000	-5212900.566	38	44	49	53	RUS-Pulkovo42_5044	Воронежская область, МСК-36 зона 2	Voronezh region, LCS-36 zone 2	ru;region		
+RUS-MSK37-Ivanovo	+	43.8923178860917	0	0.999636470585922	176785.597	-6320843.043	39	44	56	59	RUS-Pulkovo42_5044	г. Иваново, Ивановская область	Ivanovo town, Ivanovo region	ru;town	geodesist;cplanelite	
+RUS-MSK37-Zone1	+	38.55	0	1	1250000	-6014743.504	39	44	56	59	RUS-Pulkovo42_5044	Ивановская область, МСК-37 зона 1	Ivanovo region, LCS-37 zone 1	ru;region		
+RUS-MSK37-Zone2	+	41.55	0	1	2250000	-6014743.504	39	44	56	59	RUS-Pulkovo42_5044	Ивановская область, МСК-37 зона 2	Ivanovo region, LCS-37 zone 2	ru;region		
+RUS-MSK38-Zone1	+	97.03333333333	0	1	1250000	-5411057.63	94	125	48	66	RUS-Pulkovo42_5044	Иркутская область, МСК-38 зона 1	Irkutsk region, LCS-38 zone 1	ru;region		
+RUS-MSK38-Zone2	+	100.03333333333	0	1	2250000	-5411057.63	94	125	48	66	RUS-Pulkovo42_5044	Иркутская область, МСК-38 зона 2	Irkutsk region, LCS-38 zone 2	ru;region		
+RUS-MSK38-Zone3	+	103.03333333333	0	1	3250000	-5411057.63	94	125	48	66	RUS-Pulkovo42_5044	Иркутская область, МСК-38 зона 3	Irkutsk region, LCS-38 zone 3	ru;region		
+RUS-MSK38-Zone4	+	106.03333333333	0	1	4250000	-5411057.63	94	125	48	66	RUS-Pulkovo42_5044	Иркутская область, МСК-38 зона 4	Irkutsk region, LCS-38 zone 4	ru;region		
+RUS-MSK38-Zone5	+	109.03333333333	0	1	5250000	-5411057.63	94	125	48	66	RUS-Pulkovo42_5044	Иркутская область, МСК-38 зона 5	Irkutsk region, LCS-38 zone 5	ru;region		
+RUS-MSK38-Zone6	+	112.03333333333	0	1	6250000	-5411057.63	94	125	48	66	RUS-Pulkovo42_5044	Иркутская область, МСК-38 зона 6	Irkutsk region, LCS-38 zone 6	ru;region		
+RUS-MSK38-Zone7	+	115.03333333333	0	1	7250000	-5411057.63	94	125	48	66	RUS-Pulkovo42_5044	Иркутская область, МСК-38 зона 7	Irkutsk region, LCS-38 zone 7	ru;region		
+RUS-MSK38-Zone8	+	118.03333333333	0	1	8250000	-5411057.63	94	125	48	66	RUS-Pulkovo42_5044	Иркутская область, МСК-38 зона 8	Irkutsk region, LCS-38 zone 8	ru;region		
+RUS-MSK39	+	21.45	0	1	1250000	-5711057.628	19	24	53	56	RUS-Pulkovo42_5044	Калининградская область, МСК-39	Kaliningrad region, LCS-39	ru;region		
+RUS-MSK39-1963	+	21.95	0	1	249994.237	-11061.814	19	24	53	56	RUS-Pulkovo42_5044	Калининградская область, СК-1963	Kaliningrad region, LCS-1963	ru;region	geobridge	
+RUS-MSK39-Kaliningrad	+	21	0	1	42499.783	-6058499.803	19	24	53	56	RUS-Pulkovo42_5044	г. Калининград, Калининградская область	Kaliningrad town, Kaliningrad region	ru;town	geodesist	
+RUS-MSK40	+	35.48333333333	0	1	1250000	-5612900.566	33	38	52	56	RUS-Pulkovo42_5044	Калужская область, МСК-40	Kaluga region, LCS-40	ru;region		
 RUS-MSK41-Zone1	+	158.46666666667	0	1	1400000	-5316586.442	154	177	50	66	RUS-Pulkovo42_5044	Камчатский край, МСК-41 зона 1	Kamchatka Territory, LCS-41 zone 1 (6 degree zone)	ru;region		
 RUS-MSK41-Zone2	+	164.46666666667	0	1	2400000	-5316586.442	154	177	50	66	RUS-Pulkovo42_5044	Камчатский край, МСК-41 зона 2	Kamchatka Territory, LCS-41 zone 2 (6 degree zone)	ru;region		
 RUS-MSK41-Zone3	+	170.46666666667	0	1	3400000	-5316586.442	154	177	50	66	RUS-Pulkovo42_5044	Камчатский край, МСК-41 зона 3	Kamchatka Territory, LCS-41 zone 3 (6 degree zone)	ru;region		
-RUS-MSK42-Mezhdurechens	+	87	0	1	-55999.6	-5940886.91	84	91	52	58	RUS-Pulkovo42_5044	г. Междуреченск, Кемеровская область	Mezhdurechensk town, Kemerovo oblast	ru;town	geodesist	
-RUS-MSK42-Zone1	+	85.46666666666	0	1	1300000	-5512900.56	84	91	52	58	RUS-Pulkovo42_5044	Кемеровская область, МСК-42 зона 1	Kemerovo Region - Kuzbass, LCS-42 zone 1	ru;region		
-RUS-MSK42-Zone2	+	88.46666666666	0	1	2300000	-5512900.56	84	91	52	58	RUS-Pulkovo42_5044	Кемеровская область, МСК-42 зона 2	Kemerovo Region - Kuzbass, LCS-42 zone 2	ru;region		
-RUS-MSK43-Zone1	+	47.55	0	1	1250000	-5914743.504	45	55	55	62	RUS-Pulkovo42_5044	Кировская область, МСК-43 зона 1	Kirov Region, LCS-43 zone 1	ru;region		
-RUS-MSK43-Zone2	+	50.55	0	1	2250000	-5914743.504	45	55	55	62	RUS-Pulkovo42_5044	Кировская область, МСК-43 зона 2	Kirov Region, LCS-43 zone 2	ru;region		
-RUS-MSK43-Zone3	+	53.55	0	1	3250000	-5914743.504	45	55	55	62	RUS-Pulkovo42_5044	Кировская область, МСК-43 зона 3	Kirov Region, LCS-43 zone 3	ru;region		
-RUS-MSK44-Zone1	+	41.55	0	1	1250000	-6114743.504	39	49	56	61	RUS-Pulkovo42_5044	Костромская область, МСК-44 зона 1	Kostroma Region, LCS-44 zone 1	ru;region		
-RUS-MSK44-Zone2	+	44.55	0	1	2250000	-6114743.504	39	49	56	61	RUS-Pulkovo42_5044	Костромская область, МСК-44 зона 2	Kostroma Region, LCS-44 zone 2	ru;region		
-RUS-MSK44-Zone3	+	47.55	0	1	3250000	-6114743.504	39	49	56	61	RUS-Pulkovo42_5044	Костромская область, МСК-44 зона 3	Kostroma Region, LCS-44 zone 3	ru;region		
-RUS-MSK45-Ketovsky	+	63	0	1	377000	-5889000	61	69	53	58	RUS-Pulkovo42_5044	Кетовский район, Курганская область	Ketovsky district, Kurgan Region	ru;region	geodesist	
-RUS-MSK45-Kurgan	+	65.35	0	1	429.174	-6146273.339	61	69	53	58	RUS-Pulkovo42_5044	г. Курган, Курганская область	Kurgan town, Kurgan Region	ru;town	geobridge	
-RUS-MSK45-Zone1	+	61.03333333333	0	1	1300000	-5709414.7	61	69	53	58	RUS-Pulkovo42_5044	Курганская область, МСК-45 зона 1	Kurgan Region, LCS-45 zone 1	ru;region		
-RUS-MSK45-Zone2	+	64.03333333333	0	1	2300000	-5709414.7	61	69	53	58	RUS-Pulkovo42_5044	Курганская область, МСК-45 зона 2	Kurgan Region, LCS-45 zone 2	ru;region		
-RUS-MSK45-Zone3	+	67.03333333333	0	1	3300000	-5709414.7	61	69	53	58	RUS-Pulkovo42_5044	Курганская область, МСК-45 зона 3	Kurgan Region, LCS-45 zone 3	ru;region		
-RUS-MSK45-Zverinogolovs	+	64.03333333333	0	1	2304000	-5705414.7	61	69	53	58	RUS-Pulkovo42_5044	Звериноголовский район, Курганская область	Zverinogolovsky district, Kurgan Region	ru;region	geobridge	
-RUS-MSK46-Zone1	+	35.48333333333	0	1	1250000	-5312900.566	33	39	50	53	RUS-Pulkovo42_5044	Курская область, МСК-46 зона 1	Kursk oblast, LCS-46 zone 1	ru;region		
-RUS-MSK46-Zone2	+	38.48333333333	0	1	2250000	-5312900.566	33	39	50	53	RUS-Pulkovo42_5044	Курская область, МСК-46 зона 2	Kursk oblast, LCS-46 zone 2	ru;region		
-RUS-MSK47-UstLuga	+	27	0	1	0	-6600000	27	36	57	63	RUS-Pulkovo42_5044	г. Усть-Луга, Ленинградская область	Ust-Luga town, Leningrad Region	ru;town	geodesist	
-RUS-MSK47-Volkhov	+	36.716666667	0	1	243818.719	-6652318.868	32	33	59	61	RUS-Pulkovo42_5044	г. Волхов, Ленинградская область	Volkhov town, Leningrad Region	ru;town	geobridge	
-RUS-MSK47-Vyborg	+	30	0	1	85635.594	-6724104.996	28	30	60	61	RUS-Pulkovo42_5044	г. Выборг, Ленинградская область	Vyborg town, Leningrad Region	ru;town	geodesist	
-RUS-MSK47-Zone1	+	27.95	0	1	1250000	-6211057.628	27	36	57	63	RUS-Pulkovo42_5044	Ленинградская область, МСК-47 зона 1	Leningrad Region, LCS-47 zone 1	ru;region		
-RUS-MSK47-Zone2	+	30.95	0	1	2250000	-6211057.628	27	36	57	63	RUS-Pulkovo42_5044	Ленинградская область, МСК-47 зона 2	Leningrad Region, LCS-47 zone 2	ru;region		
-RUS-MSK47-Zone3	+	33.95	0	1	3250000	-6211057.628	27	36	57	63	RUS-Pulkovo42_5044	Ленинградская область, МСК-47 зона 3	Leningrad Region, LCS-47 zone 3	ru;region		
-RUS-MSK48-Lipetsk		39.6024803728553	0	1	34.51	-5831422.79	37	41	51	55	RUS-Pulkovo42_5044	г. Липецк, Липецкая область	Lipetsk town, Lipetsk Region	ru;town	geodesist;cplanelite	
-RUS-MSK48-Zone1	+	38.48333333333	0	1	1250000	-5412900.566	37	41	51	55	RUS-Pulkovo42_5044	Липецкая область, МСК-48 зона 1	Lipetsk Region, LCS-48 zone 1	ru;region		
-RUS-MSK48-Zone2	+	41.48333333333	0	1	2250000	-5412900.566	37	41	51	55	RUS-Pulkovo42_5044	Липецкая область, МСК-48 зона 2	Lipetsk Region, LCS-48 zone 2	ru;region		
-RUS-MSK49-Zone1	+	144.45	0	1	1400000	-6212900.566	143	168	57	67	RUS-Pulkovo42_5044	Магаданская область, МСК-49 зона 1	Magadan Region, LCS-49 zone 1 (6 degree zone)	ru;region		
-RUS-MSK49-Zone2	+	150.45	0	1	2400000	-6212900.566	143	168	57	67	RUS-Pulkovo42_5044	Магаданская область, МСК-49 зона 2	Magadan Region, LCS-49 zone 2 (6 degree zone)	ru;region		
-RUS-MSK49-Zone3	+	156.45	0	1	3400000	-6212900.566	143	168	57	67	RUS-Pulkovo42_5044	Магаданская область, МСК-49 зона 3	Magadan Region, LCS-49 zone 3 (6 degree zone)	ru;region		
-RUS-MSK49-Zone4	+	162.45	0	1	4400000	-6212900.566	143	168	57	67	RUS-Pulkovo42_5044	Магаданская область, МСК-49 зона 4	Magadan Region, LCS-49 zone 4 (6 degree zone)	ru;region		
+RUS-MSK42-Mezhdurechens	+	87	0	1	-55999.6	-5940886.91	84	91	52	58	RUS-Pulkovo42_5044	г. Междуреченск, Кемеровская область	Mezhdurechensk town, Kemerovo region	ru;town	geodesist	
+RUS-MSK42-Zone1	+	85.46666666666	0	1	1300000	-5512900.56	84	91	52	58	RUS-Pulkovo42_5044	Кемеровская область, МСК-42 зона 1	Kemerovo region - Kuzbass, LCS-42 zone 1	ru;region		
+RUS-MSK42-Zone2	+	88.46666666666	0	1	2300000	-5512900.56	84	91	52	58	RUS-Pulkovo42_5044	Кемеровская область, МСК-42 зона 2	Kemerovo region - Kuzbass, LCS-42 zone 2	ru;region		
+RUS-MSK43-Zone1	+	47.55	0	1	1250000	-5914743.504	45	55	55	62	RUS-Pulkovo42_5044	Кировская область, МСК-43 зона 1	Kirov region, LCS-43 zone 1	ru;region		
+RUS-MSK43-Zone2	+	50.55	0	1	2250000	-5914743.504	45	55	55	62	RUS-Pulkovo42_5044	Кировская область, МСК-43 зона 2	Kirov region, LCS-43 zone 2	ru;region		
+RUS-MSK43-Zone3	+	53.55	0	1	3250000	-5914743.504	45	55	55	62	RUS-Pulkovo42_5044	Кировская область, МСК-43 зона 3	Kirov region, LCS-43 zone 3	ru;region		
+RUS-MSK44-Zone1	+	41.55	0	1	1250000	-6114743.504	39	49	56	61	RUS-Pulkovo42_5044	Костромская область, МСК-44 зона 1	Kostroma region, LCS-44 zone 1	ru;region		
+RUS-MSK44-Zone2	+	44.55	0	1	2250000	-6114743.504	39	49	56	61	RUS-Pulkovo42_5044	Костромская область, МСК-44 зона 2	Kostroma region, LCS-44 zone 2	ru;region		
+RUS-MSK44-Zone3	+	47.55	0	1	3250000	-6114743.504	39	49	56	61	RUS-Pulkovo42_5044	Костромская область, МСК-44 зона 3	Kostroma region, LCS-44 zone 3	ru;region		
+RUS-MSK45-Ketovsky	+	63	0	1	377000	-5889000	61	69	53	58	RUS-Pulkovo42_5044	Кетовский район, Курганская область	Ketovsky district, Kurgan region	ru;region	geodesist	
+RUS-MSK45-Kurgan	+	65.35	0	1	429.174	-6146273.339	61	69	53	58	RUS-Pulkovo42_5044	г. Курган, Курганская область	Kurgan town, Kurgan region	ru;town	geobridge	
+RUS-MSK45-Zone1	+	61.03333333333	0	1	1300000	-5709414.7	61	69	53	58	RUS-Pulkovo42_5044	Курганская область, МСК-45 зона 1	Kurgan region, LCS-45 zone 1	ru;region		
+RUS-MSK45-Zone2	+	64.03333333333	0	1	2300000	-5709414.7	61	69	53	58	RUS-Pulkovo42_5044	Курганская область, МСК-45 зона 2	Kurgan region, LCS-45 zone 2	ru;region		
+RUS-MSK45-Zone3	+	67.03333333333	0	1	3300000	-5709414.7	61	69	53	58	RUS-Pulkovo42_5044	Курганская область, МСК-45 зона 3	Kurgan region, LCS-45 zone 3	ru;region		
+RUS-MSK45-Zverinogolovs	+	64.03333333333	0	1	2304000	-5705414.7	61	69	53	58	RUS-Pulkovo42_5044	Звериноголовский район, Курганская область	Zverinogolovsky district, Kurgan region	ru;region	geobridge	
+RUS-MSK46-Zone1	+	35.48333333333	0	1	1250000	-5312900.566	33	39	50	53	RUS-Pulkovo42_5044	Курская область, МСК-46 зона 1	Kursk region, LCS-46 zone 1	ru;region		
+RUS-MSK46-Zone2	+	38.48333333333	0	1	2250000	-5312900.566	33	39	50	53	RUS-Pulkovo42_5044	Курская область, МСК-46 зона 2	Kursk region, LCS-46 zone 2	ru;region		
+RUS-MSK47-UstLuga	+	27	0	1	0	-6600000	27	36	57	63	RUS-Pulkovo42_5044	г. Усть-Луга, Ленинградская область	Ust-Luga town, Leningrad region	ru;town	geodesist	
+RUS-MSK47-Volkhov	+	36.716666667	0	1	243818.719	-6652318.868	32	33	59	61	RUS-Pulkovo42_5044	г. Волхов, Ленинградская область	Volkhov town, Leningrad region	ru;town	geobridge	
+RUS-MSK47-Vyborg	+	30	0	1	85635.594	-6724104.996	28	30	60	61	RUS-Pulkovo42_5044	г. Выборг, Ленинградская область	Vyborg town, Leningrad region	ru;town	geodesist	
+RUS-MSK47-Zone1	+	27.95	0	1	1250000	-6211057.628	27	36	57	63	RUS-Pulkovo42_5044	Ленинградская область, МСК-47 зона 1	Leningrad region, LCS-47 zone 1	ru;region		
+RUS-MSK47-Zone2	+	30.95	0	1	2250000	-6211057.628	27	36	57	63	RUS-Pulkovo42_5044	Ленинградская область, МСК-47 зона 2	Leningrad region, LCS-47 zone 2	ru;region		
+RUS-MSK47-Zone3	+	33.95	0	1	3250000	-6211057.628	27	36	57	63	RUS-Pulkovo42_5044	Ленинградская область, МСК-47 зона 3	Leningrad region, LCS-47 zone 3	ru;region		
+RUS-MSK48-Lipetsk		39.6024803728553	0	1	34.51	-5831422.79	37	41	51	55	RUS-Pulkovo42_5044	г. Липецк, Липецкая область	Lipetsk town, Lipetsk region	ru;town	geodesist;cplanelite	
+RUS-MSK48-Zone1	+	38.48333333333	0	1	1250000	-5412900.566	37	41	51	55	RUS-Pulkovo42_5044	Липецкая область, МСК-48 зона 1	Lipetsk region, LCS-48 zone 1	ru;region		
+RUS-MSK48-Zone2	+	41.48333333333	0	1	2250000	-5412900.566	37	41	51	55	RUS-Pulkovo42_5044	Липецкая область, МСК-48 зона 2	Lipetsk region, LCS-48 zone 2	ru;region		
+RUS-MSK49-Zone1	+	144.45	0	1	1400000	-6212900.566	143	168	57	67	RUS-Pulkovo42_5044	Магаданская область, МСК-49 зона 1	Magadan region, LCS-49 zone 1 (6 degree zone)	ru;region		
+RUS-MSK49-Zone2	+	150.45	0	1	2400000	-6212900.566	143	168	57	67	RUS-Pulkovo42_5044	Магаданская область, МСК-49 зона 2	Magadan region, LCS-49 zone 2 (6 degree zone)	ru;region		
+RUS-MSK49-Zone3	+	156.45	0	1	3400000	-6212900.566	143	168	57	67	RUS-Pulkovo42_5044	Магаданская область, МСК-49 зона 3	Magadan region, LCS-49 zone 3 (6 degree zone)	ru;region		
+RUS-MSK49-Zone4	+	162.45	0	1	4400000	-6212900.566	143	168	57	67	RUS-Pulkovo42_5044	Магаданская область, МСК-49 зона 4	Magadan region, LCS-49 zone 4 (6 degree zone)	ru;region		
 RUS-MSK50-Podolsk	+	37.5057948997331	0	1	368.213	-6101066.457	34	41	53	58	RUS-Pulkovo42_5044	г. Подольск, Московская область	Podolsk town, Moscow region	ru;town	geodesist;cplanelite	
 RUS-MSK50-Zone1	+	35.48333333333	0	1	1250000	-5712900.566	34	41	53	58	RUS-Pulkovo42_5044	Москва и Московская область, МСК-50 зона 1	Moscow region, LCS-50 zone 1	ru;region		
 RUS-MSK50-Zone2	+	38.48333333333	0	1	2250000	-5712900.566	34	41	53	58	RUS-Pulkovo42_5044	Москва и Московская область, МСК-50 зона 2	Moscow region, LCS-50 zone 2	ru;region		
-RUS-MSK51-Apatity	+	33	0	1	8000	-7478000	27	45	65	71	RUS-Pulkovo42_5044	г. Апатиты, Мурманская область	Apatity town, Murmansk oblast	ru;town	geobridge	
-RUS-MSK51-Kirovsk	+	33	0	1	7994.264	-7477998.88	27	45	65	71	RUS-Pulkovo42_5044	г. Кировск, Мурманская область	Kirovsk town, Murmansk oblast	ru;town	geobridge	
-RUS-MSK51-Kovdor	+	33	0	1	-20400	-7497550	27	45	65	71	RUS-Pulkovo42_5044	г. Ковдор, Мурманская область	Kovdor town, Murmansk oblast	ru;town	geobridge	
-RUS-MSK51-Monchegorsk	+	33	0	1	9962.2	-7300806.4	27	45	65	71	RUS-Pulkovo42_5044	г. Мончегорск, Мурманская область	Monchegorsk town, Murmansk oblast	ru;town	geobridge	
-RUS-MSK51-Murmansk	+	33	0	1	3994.92	-7640999.44	27	45	65	71	RUS-Pulkovo42_5044	г. Мурманск, Мурманская область	Murmansk town, Murmansk oblast	ru;town	geobridge	
-RUS-MSK51-Murmashi	+	33	0	1	10949.58	-7633999.36	27	45	65	71	RUS-Pulkovo42_5044	г. Мурмаши, Мурманская область	Murmashi town, Murmansk oblast	ru;town	geobridge	
-RUS-MSK51-Nikel	+	33	0	1	11000	-7632000	27	45	65	71	RUS-Pulkovo42_5044	г. Никель, Мурманская область	Nikel town, Murmansk oblast	ru;town	geobridge	
-RUS-MSK51-Olenegorsk	+	33	0	1	-6920	-7563911	27	45	65	71	RUS-Pulkovo42_5044	г. Оленегорск, Мурманская область	Olenegorsk town, Murmansk oblast	ru;town	geobridge	
-RUS-MSK51-Teriberka	+	33	0	1	173715	-7651652	27	45	65	71	RUS-Pulkovo42_5044	г. Териберка, Мурманская область	Teriberka town, Murmansk oblast	ru;town	geobridge	
-RUS-MSK51-Tuloma2	+	33	0	1	12890	-7632380	27	45	65	71	RUS-Pulkovo42_5044	пос. Тулома 2, Мурманская область	Tuloma2 town, Murmansk oblast	ru;town	geobridge	
-RUS-MSK51-Zone1	+	32.03333333333	0	1	1400000	-7011057.628	27	45	65	71	RUS-Pulkovo42_5044	Мурманская область, МСК-51 зона 1	Murmansk oblast LCS-51 zone 1 (6 gradus zone)	ru;region		
-RUS-MSK51-Zone2	+	38.03333333333	0	1	2400000	-7011057.628	27	45	65	71	RUS-Pulkovo42_5044	Мурманская область, МСК-51 зона 2	Murmansk region LCS-51 zone 2 (6 gradus zone)	ru;region		
-RUS-MSK52-NizNovgorod-1		43.9685206254641	0	1.00000682993	-1130.28243212	-6242503.53211	41	49	54	59	RUS-Pulkovo42_5044	г. Нижний Новгород, Нижегородская область, вар. 1	Nizhny Novgorod town, Nizhni Novgorod Region, var. 1	ru;town		
-RUS-MSK52-NizNovgorod-2	+	43.961111111	0	1	-1589.012	-6242459.578	41	49	54	59	RUS-Pulkovo42_5044	г. Нижний Новгород, Нижегородская область, вар. 2	Nizhny Novgorod town, Nizhni Novgorod Region, var. 2	ru;town	geodesist	
-RUS-MSK52-NizNovgorod-3	+	43.968134	0	1	-1154.2731	-6242460.9505	41	49	54	59	RUS-Pulkovo42_5044	г. Нижний Новгород, Нижегородская область, вар. 3	Nizhny Novgorod town, Nizhni Novgorod Region, var. 3	ru;town	geodesist	
-RUS-MSK52-Zone1	+	41.55	0	1	1250000	-5714743.504	41	49	54	59	RUS-Pulkovo42_5044	Нижегородская область, МСК-52 зона 1	Nizhni Novgorod Region, LCS-52 zone 1	ru;region		
-RUS-MSK52-Zone2	+	44.55	0	1	2250000	-5714743.504	41	49	54	59	RUS-Pulkovo42_5044	Нижегородская область, МСК-52 зона 2	Nizhni Novgorod Region, LCS-52 zone 2	ru;region		
-RUS-MSK52-Zone3	+	47.55	0	1	3250000	-5714743.504	41	49	54	59	RUS-Pulkovo42_5044	Нижегородская область, МСК-52 зона 3	Nizhni Novgorod Region, LCS-52 zone 3	ru;region		
-RUS-MSK53-Zone1	+	29.48333333333	0	1	1250000	-5912900.56	29	37	56	60	RUS-Pulkovo42_5044	Новгородская область, МСК-54 зона 1	Novgorod Region, LCS-53 zone 1	ru;region		
-RUS-MSK53-Zone2	+	32.48333333333	0	1	2250000	-5912900.56	29	37	56	60	RUS-Pulkovo42_5044	Новгородская область, МСК-54 зона 2	Novgorod Region, LCS-53 zone 2	ru;region		
-RUS-MSK53-Zone3	+	35.48333333333	0	1	3250000	-5912900.56	29	37	56	60	RUS-Pulkovo42_5044	Новгородская область, МСК-54 зона 3	Novgorod Region, LCS-53 zone 3	ru;region		
-RUS-MSK54-Berdsk	+	84	0	1	63491.44	-6063760.86	82	85	54	56	RUS-Pulkovo42_5044	г. Бердск, Новосибирская область	Berdsk town, Novosibirsk Region	ru;town	MAPINFOW	
-RUS-MSK54-Cherepano	+	81	0	1	-149456.87	-6010178.1	82	85	54	56	RUS-Pulkovo42_5044	г. Черепаново, Новосибирская область	Cherepanovo town, Novosibirsk Region	ru;town	MAPINFOW	
-RUS-MSK54-Iskitim	+	84	0	1	46500.08	-6065499.69	82	85	54	56	RUS-Pulkovo42_5044	г. Искитим, Новосибирская область	Iskitim town, Novosibirsk Region	ru;town	MAPINFOW	
-RUS-MSK54-Maslanino	+	84	0	1	-5636.19	-6015419.16	82	85	54	56	RUS-Pulkovo42_5044	г. Маслянино, Новосибирская область	Maslanino town, Novosibirsk Region	ru;town	MAPINFOW	
-RUS-MSK54-Novosibirsk	+	83	0	1	21124.81	-6077560.26	82	85	54	56	RUS-Pulkovo42_5044	г. Новосибирск,Новосибирская область	Novosibirsk town, Novosibirsk Region	ru;town	MAPINFOW	
-RUS-MSK54-Zone1	+	74.73333333333	0	1	1250000	-5612900.566	74	86	53	58	RUS-Pulkovo42_5044	Новосибирская область, МСК-54 зона 1	Novosibirsk Region, LCS-54 zone 1	ru;region		
-RUS-MSK54-Zone2	+	77.73333333333	0	1	2250000	-5612900.566	74	86	53	58	RUS-Pulkovo42_5044	Новосибирская область, МСК-54 зона 2	Novosibirsk Region, LCS-54 zone 2	ru;region		
-RUS-MSK54-Zone3	+	80.73333333333	0	1	3250000	-5612900.566	74	86	53	58	RUS-Pulkovo42_5044	Новосибирская область, МСК-54 зона 3	Novosibirsk Region, LCS-54 zone 3	ru;region		
-RUS-MSK54-Zone4	+	83.73333333333	0	1	4250000	-5612900.566	74	86	53	58	RUS-Pulkovo42_5044	Новосибирская область, МСК-54 зона 4	Novosibirsk Region, LCS-54 zone 4	ru;region		
-RUS-MSK55-Omsk1	+	73.5	0	1	17590.07	-6079746.39	69	77	53	59	RUS-Pulkovo42_5044	г. Омск, Омская область, вар. 1	OLCS town, OLCS region, var. 1	ru;town	geobridge	
-RUS-MSK55-Omsk2	+	74.733333333	0	1	2249999.999	-5612900.563	69	77	53	59	RUS-Pulkovo42_5044	г. Омск, Омская область, вар. 2	OLCS town, OLCS region, var. 2	ru;town	geobridge	
-RUS-MSK55-Zone1	+	71.73333333333	0	1	1250000	-5612900.563	69	77	53	59	RUS-Pulkovo42_5044	Омская область, МСК-55 зона 1	OLCS region LCS-55 zone 1	ru;region		
-RUS-MSK55-Zone2	+	74.73333333333	0	1	2250000	-5612900.563	69	77	53	59	RUS-Pulkovo42_5044	Омская область, МСК-55 зона 2	OLCS region LCS-55 zone 2	ru;region		
+RUS-MSK51-Apatity	+	33	0	1	8000	-7478000	27	45	65	71	RUS-Pulkovo42_5044	г. Апатиты, Мурманская область	Apatity town, Murmansk region	ru;town	geobridge	
+RUS-MSK51-Kirovsk	+	33	0	1	7994.264	-7477998.88	27	45	65	71	RUS-Pulkovo42_5044	г. Кировск, Мурманская область	Kirovsk town, Murmansk region	ru;town	geobridge	
+RUS-MSK51-Kovdor	+	33	0	1	-20400	-7497550	27	45	65	71	RUS-Pulkovo42_5044	г. Ковдор, Мурманская область	Kovdor town, Murmansk region	ru;town	geobridge	
+RUS-MSK51-Monchegorsk	+	33	0	1	9962.2	-7300806.4	27	45	65	71	RUS-Pulkovo42_5044	г. Мончегорск, Мурманская область	Monchegorsk town, Murmansk region	ru;town	geobridge	
+RUS-MSK51-Murmansk	+	33	0	1	3994.92	-7640999.44	27	45	65	71	RUS-Pulkovo42_5044	г. Мурманск, Мурманская область	Murmansk town, Murmansk region	ru;town	geobridge	
+RUS-MSK51-Murmashi	+	33	0	1	10949.58	-7633999.36	27	45	65	71	RUS-Pulkovo42_5044	г. Мурмаши, Мурманская область	Murmashi town, Murmansk region	ru;town	geobridge	
+RUS-MSK51-Nikel	+	33	0	1	11000	-7632000	27	45	65	71	RUS-Pulkovo42_5044	г. Никель, Мурманская область	Nikel town, Murmansk region	ru;town	geobridge	
+RUS-MSK51-Olenegorsk	+	33	0	1	-6920	-7563911	27	45	65	71	RUS-Pulkovo42_5044	г. Оленегорск, Мурманская область	Olenegorsk town, Murmansk region	ru;town	geobridge	
+RUS-MSK51-Teriberka	+	33	0	1	173715	-7651652	27	45	65	71	RUS-Pulkovo42_5044	г. Териберка, Мурманская область	Teriberka town, Murmansk region	ru;town	geobridge	
+RUS-MSK51-Tuloma2	+	33	0	1	12890	-7632380	27	45	65	71	RUS-Pulkovo42_5044	пос. Тулома 2, Мурманская область	Tuloma2 town, Murmansk region	ru;town	geobridge	
+RUS-MSK51-Zone1	+	32.03333333333	0	1	1400000	-7011057.628	27	45	65	71	RUS-Pulkovo42_5044	Мурманская область, МСК-51 зона 1	Murmansk region LCS-51 zone 1 (6 degree zone)	ru;region		
+RUS-MSK51-Zone2	+	38.03333333333	0	1	2400000	-7011057.628	27	45	65	71	RUS-Pulkovo42_5044	Мурманская область, МСК-51 зона 2	Murmansk region LCS-51 zone 2 (6 degree zone)	ru;region		
+RUS-MSK52-NizNovgorod-1		43.9685206254641	0	1.00000682993	-1130.28243212	-6242503.53211	41	49	54	59	RUS-Pulkovo42_5044	г. Нижний Новгород, Нижегородская область, вар. 1	Nizhny Novgorod town, Nizhni Novgorod region, var. 1	ru;town		
+RUS-MSK52-NizNovgorod-2	+	43.961111111	0	1	-1589.012	-6242459.578	41	49	54	59	RUS-Pulkovo42_5044	г. Нижний Новгород, Нижегородская область, вар. 2	Nizhny Novgorod town, Nizhni Novgorod region, var. 2	ru;town	geodesist	
+RUS-MSK52-NizNovgorod-3	+	43.968134	0	1	-1154.2731	-6242460.9505	41	49	54	59	RUS-Pulkovo42_5044	г. Нижний Новгород, Нижегородская область, вар. 3	Nizhny Novgorod town, Nizhni Novgorod region, var. 3	ru;town	geodesist	
+RUS-MSK52-Zone1	+	41.55	0	1	1250000	-5714743.504	41	49	54	59	RUS-Pulkovo42_5044	Нижегородская область, МСК-52 зона 1	Nizhni Novgorod region, LCS-52 zone 1	ru;region		
+RUS-MSK52-Zone2	+	44.55	0	1	2250000	-5714743.504	41	49	54	59	RUS-Pulkovo42_5044	Нижегородская область, МСК-52 зона 2	Nizhni Novgorod region, LCS-52 zone 2	ru;region		
+RUS-MSK52-Zone3	+	47.55	0	1	3250000	-5714743.504	41	49	54	59	RUS-Pulkovo42_5044	Нижегородская область, МСК-52 зона 3	Nizhni Novgorod region, LCS-52 zone 3	ru;region		
+RUS-MSK53-Zone1	+	29.48333333333	0	1	1250000	-5912900.56	29	37	56	60	RUS-Pulkovo42_5044	Новгородская область, МСК-54 зона 1	Novgorod region, LCS-53 zone 1	ru;region		
+RUS-MSK53-Zone2	+	32.48333333333	0	1	2250000	-5912900.56	29	37	56	60	RUS-Pulkovo42_5044	Новгородская область, МСК-54 зона 2	Novgorod region, LCS-53 zone 2	ru;region		
+RUS-MSK53-Zone3	+	35.48333333333	0	1	3250000	-5912900.56	29	37	56	60	RUS-Pulkovo42_5044	Новгородская область, МСК-54 зона 3	Novgorod region, LCS-53 zone 3	ru;region		
+RUS-MSK54-Berdsk	+	84	0	1	63491.44	-6063760.86	82	85	54	56	RUS-Pulkovo42_5044	г. Бердск, Новосибирская область	Berdsk town, Novosibirsk region	ru;town	MAPINFOW	
+RUS-MSK54-Cherepano	+	81	0	1	-149456.87	-6010178.1	82	85	54	56	RUS-Pulkovo42_5044	г. Черепаново, Новосибирская область	Cherepanovo town, Novosibirsk region	ru;town	MAPINFOW	
+RUS-MSK54-Iskitim	+	84	0	1	46500.08	-6065499.69	82	85	54	56	RUS-Pulkovo42_5044	г. Искитим, Новосибирская область	Iskitim town, Novosibirsk region	ru;town	MAPINFOW	
+RUS-MSK54-Maslanino	+	84	0	1	-5636.19	-6015419.16	82	85	54	56	RUS-Pulkovo42_5044	г. Маслянино, Новосибирская область	Maslanino town, Novosibirsk region	ru;town	MAPINFOW	
+RUS-MSK54-Novosibirsk	+	83	0	1	21124.81	-6077560.26	82	85	54	56	RUS-Pulkovo42_5044	г. Новосибирск,Новосибирская область	Novosibirsk town, Novosibirsk region	ru;town	MAPINFOW	
+RUS-MSK54-Zone1	+	74.73333333333	0	1	1250000	-5612900.566	74	86	53	58	RUS-Pulkovo42_5044	Новосибирская область, МСК-54 зона 1	Novosibirsk region, LCS-54 zone 1	ru;region		
+RUS-MSK54-Zone2	+	77.73333333333	0	1	2250000	-5612900.566	74	86	53	58	RUS-Pulkovo42_5044	Новосибирская область, МСК-54 зона 2	Novosibirsk region, LCS-54 zone 2	ru;region		
+RUS-MSK54-Zone3	+	80.73333333333	0	1	3250000	-5612900.566	74	86	53	58	RUS-Pulkovo42_5044	Новосибирская область, МСК-54 зона 3	Novosibirsk region, LCS-54 zone 3	ru;region		
+RUS-MSK54-Zone4	+	83.73333333333	0	1	4250000	-5612900.566	74	86	53	58	RUS-Pulkovo42_5044	Новосибирская область, МСК-54 зона 4	Novosibirsk region, LCS-54 zone 4	ru;region		
+RUS-MSK55-Omsk1	+	73.5	0	1	17590.07	-6079746.39	69	77	53	59	RUS-Pulkovo42_5044	г. Омск, Омская область, вар. 1	Omsk town, Omsk region, var. 1	ru;town	geobridge	
+RUS-MSK55-Omsk2	+	74.733333333	0	1	2249999.999	-5612900.563	69	77	53	59	RUS-Pulkovo42_5044	г. Омск, Омская область, вар. 2	Omsk town, Omsk region, var. 2	ru;town	geobridge	
+RUS-MSK55-Zone1	+	71.73333333333	0	1	1250000	-5612900.563	69	77	53	59	RUS-Pulkovo42_5044	Омская область, МСК-55 зона 1	Omsk region LCS-55 zone 1	ru;region		
+RUS-MSK55-Zone2	+	74.73333333333	0	1	2250000	-5612900.563	69	77	53	59	RUS-Pulkovo42_5044	Омская область, МСК-55 зона 2	Omsk region LCS-55 zone 2	ru;region		
 RUS-MSK56-Perevolotsky	+	57	0	1	23500000	-18000000	52	59	50	53	RUS-Pulkovo42_5044	Переволоцкий район, Оренбургская область	Perevolotsky District, Orenburg region	ru;region	MAPINFOW	
 RUS-MSK56-Zone1	+	52.03333333333	0	1	1300000	-5309414.7	49	63	50	55	RUS-Pulkovo42_5044	Оренбургская область, МСК-56 зона 1	Orenburg region, LCS-56 zone 1	ru;region		
 RUS-MSK56-Zone2	+	55.03333333333	0	1	2300000	-5309414.7	49	63	50	55	RUS-Pulkovo42_5044	Оренбургская область, МСК-56 зона 2	Orenburg region, LCS-56 zone 2	ru;region		
 RUS-MSK56-Zone3	+	58.03333333333	0	1	3300000	-5309414.7	49	63	50	55	RUS-Pulkovo42_5044	Оренбургская область, МСК-56 зона 3	Orenburg region, LCS-56 zone 3	ru;region		
 RUS-MSK56-Zone4	+	61.03333333333	0	1	4300000	-5309414.7	49	63	50	55	RUS-Pulkovo42_5044	Оренбургская область, МСК-56 зона 4	Orenburg region, LCS-56 zone 4	ru;region		
-RUS-MSK57-Oryol	+	36	0	1	8000	-5858000	34	39	51	54	RUS-Pulkovo42_5044	г. Орёл, Орловская область	Oryol town, Orel Region	ru;town	geobridge	
-RUS-MSK57-SK95-Zone1	+	35.48333333333	0	1	1250000	-5512900.566	34	39	51	54	RUS-Pulkovo42_5044	Орловская область (СК-95), МСК-57 зона 1	Orel Region, LCS-57 (based SK-95) zone 1	ru;region	geodesist	Странные параметры, не уверен в корректности
-RUS-MSK57-SK95-Zone2	+	38.48333333333	0	1	2250000	-5512900.566	34	39	51	54	RUS-Pulkovo42_5044	Орловская область (СК-95), МСК-57 зона 2	Orel Region, LCS-57 (based SK-95) zone 2	ru;region	geodesist	Странные параметры, не уверен в корректности
-RUS-MSK57-SK95-Zone3	+	41.48333333333	0	1	3250000	-5512900.566	34	39	51	54	RUS-Pulkovo42_5044	Орловская область (СК-95), МСК-57 зона 3	Orel Region, LCS-57 (based SK-95) zone 3	ru;region	geodesist	Странные параметры, не уверен в корректности
-RUS-MSK57-Zone1	+	32.48333333333	0	1	1250000	-12900.566	34	39	51	54	RUS-Pulkovo42_5044	Орловская область, МСК-57 зона 1	Orel Region, LCS-57 zone 1	ru;region		
-RUS-MSK57-Zone2	+	35.48333333333	0	1	2250000	-12900.566	34	39	51	54	RUS-Pulkovo42_5044	Орловская область, МСК-57 зона 2	Orel Region, LCS-57 zone 2	ru;region		
-RUS-MSK57-Zone3	+	38.48333333333	0	1	3250000	-12900.566	34	39	51	54	RUS-Pulkovo42_5044	Орловская область, МСК-57 зона 3	Orel Region, LCS-57 zone 3	ru;region		
+RUS-MSK57-Oryol	+	36	0	1	8000	-5858000	34	39	51	54	RUS-Pulkovo42_5044	г. Орёл, Орловская область	Oryol town, Orel region	ru;town	geobridge	
+RUS-MSK57-SK95-Zone1	+	35.48333333333	0	1	1250000	-5512900.566	34	39	51	54	RUS-Pulkovo42_5044	Орловская область (СК-95), МСК-57 зона 1	Orel region, LCS-57 (based SK-95) zone 1	ru;region	geodesist	Странные параметры, не уверен в корректности
+RUS-MSK57-SK95-Zone2	+	38.48333333333	0	1	2250000	-5512900.566	34	39	51	54	RUS-Pulkovo42_5044	Орловская область (СК-95), МСК-57 зона 2	Orel region, LCS-57 (based SK-95) zone 2	ru;region	geodesist	Странные параметры, не уверен в корректности
+RUS-MSK57-SK95-Zone3	+	41.48333333333	0	1	3250000	-5512900.566	34	39	51	54	RUS-Pulkovo42_5044	Орловская область (СК-95), МСК-57 зона 3	Orel region, LCS-57 (based SK-95) zone 3	ru;region	geodesist	Странные параметры, не уверен в корректности
+RUS-MSK57-Zone1	+	32.48333333333	0	1	1250000	-12900.566	34	39	51	54	RUS-Pulkovo42_5044	Орловская область, МСК-57 зона 1	Orel region, LCS-57 zone 1	ru;region		
+RUS-MSK57-Zone2	+	35.48333333333	0	1	2250000	-12900.566	34	39	51	54	RUS-Pulkovo42_5044	Орловская область, МСК-57 зона 2	Orel region, LCS-57 zone 2	ru;region		
+RUS-MSK57-Zone3	+	38.48333333333	0	1	3250000	-12900.566	34	39	51	54	RUS-Pulkovo42_5044	Орловская область, МСК-57 зона 3	Orel region, LCS-57 zone 3	ru;region		
 RUS-MSK58-Zone1	+	43.05	0	1	1300000	-5514743.504	41	48	52	55	RUS-Pulkovo42_5044	Пензенская область, МСК-58 зона 1	Penza region, LCS-58 zone 1	ru;region		
 RUS-MSK58-Zone2	+	46.05	0	1	2300000	-5514743.504	41	48	52	55	RUS-Pulkovo42_5044	Пензенская область, МСК-58 зона 2	Penza region, LCS-58 zone 2	ru;region		
 RUS-MSK59-Aleksandrv	+	57	0	1	0	-6500000	56	59	58	60	RUS-Pulkovo42_5044	г.Александровск, Пермский край	Aleksandrovsk town, Perm Territory	ru;town	MAPINFOW	
@@ -494,105 +495,105 @@ RUS-MSK64-Saratov	+	46.0290087933312	51.62751312222	1	279.138	-5214743.504	41	52
 RUS-MSK64-Zone1	+	43.05	0	1	1300000	-5711837.545	41	52	49	54	RUS-Pulkovo42_5044	Саратовская область, МСК-64 зона 1	Saratov region, LCS-64 zone 1	ru;region		
 RUS-MSK64-Zone2	+	46.05	0	1	2300000	-5214743.504	41	52	49	54	RUS-Pulkovo42_5044	Саратовская область, МСК-64 зона 2	Saratov region, LCS-64 zone 2	ru;region		
 RUS-MSK64-Zone3	+	49.05	0	1	3300000	-5214743.504	41	52	49	54	RUS-Pulkovo42_5044	Саратовская область, МСК-64 зона 3	Saratov region, LCS-64 zone 3	ru;region		
-RUS-MSK65-Tomarinsky	+	141	0	1	10956	-5198976	136	160	42	55	RUS-Pulkovo42_5044	Томаринский район, Сахалинская область	Tomarinsky district, Sakhalin Region	ru;region	geodesist	
-RUS-MSK65-YuzSakhalinsk	+	142.7433416667	0	1	11102.784	-5192915.216	142	143	46	48	RUS-Pulkovo42_5044	г. Южно-Сахалинск, Сахалинская область	Yuzhno-Sakhalinsk town, Sakhalin Region	ru;town	geodesist	
-RUS-MSK65-Zone1	+	142.71666666667	0	1	1300000	-4516586.439	136	160	42	55	RUS-Pulkovo42_5044	Сахалинская область, МСК-65 зона 1	Sakhalin Region, LCS-65 zone 1	ru;region		
-RUS-MSK65-Zone2	+	145.71666666667	0	1	2300000	-4516586.439	136	160	42	55	RUS-Pulkovo42_5044	Сахалинская область, МСК-65 зона 2	Sakhalin Region, LCS-65 zone 2	ru;region	geodesist	
-RUS-MSK65-Zone3	+	148.71666666667	0	1	3300000	-4516586.439	136	160	42	55	RUS-Pulkovo42_5044	Сахалинская область, МСК-65 зона 3	Sakhalin Region, LCS-65 zone 3	ru;region	geodesist	
-RUS-MSK65-Zone4	+	151.71666666667	0	1	4300000	-4516586.439	136	160	42	55	RUS-Pulkovo42_5044	Сахалинская область, МСК-65 зона 4	Sakhalin Region, LCS-65 zone 4	ru;region	geodesist	
-RUS-MSK65-Zone5	+	154.71666666667	0	1	5300000	-4516586.439	136	160	42	55	RUS-Pulkovo42_5044	Сахалинская область, МСК-65 зона 5	Sakhalin Region, LCS-65 zone 5	ru;region	geodesist	
-RUS-MSK66-AjtiSagra-1		60	0	1.000034	-1037.08	-6307197.53	60	61	56	58	RUS-Pulkovo42_5044	п. Аять, Сагра; Свердловская область, вар. 1	Ayat, Sagra town; Sverdlovsk Region, var. 1	ru;town	MAPINFOW	
-RUS-MSK66-AjtiSagra-2		60	0	1.000034	-946.41	-6307221.53	60	61	56	58	RUS-Pulkovo42_5044	п. Аять, Сагра; Свердловская область, вар. 2	Ayat, Sagra town; Sverdlovsk Region, var. 2	ru;town	MAPINFOW	
-RUS-MSK66-Alapaevsk-1	+	63	0	1	86708.1	-6407633.81	61	63	57	59	RUS-Pulkovo42_5044	г. Алапаевск, Свердловская область, вар. 1	Alapaevsk town, Sverdlovsk Region, var. 1	ru;town	MAPINFOW	
-RUS-MSK66-Alapaevsk-2		61.706231	0	1.00000004	10000	-6417633.81	61	63	57	59	RUS-Pulkovo42_5044	г. Алапаевск, Свердловская область, вар. 2	Alapaevsk town, Sverdlovsk Region, var. 2	ru;town	MAPINFOW	
-RUS-MSK66-Artemovski	+	63	0.999972	1	78578.08	-6238432.59	59	60	58	59	RUS-Pulkovo42_5044	г. Артемовский, Свердловская область	Artemovskiy town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Asbest	+	63	0	1	105500	-6289500	61	63	56	58	RUS-Pulkovo42_5044	г. Асбест, Свердловская область	Asbest town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Baranchins		60.05	0	1.000034	41975.95	-6433788.51	59	60	58	59	RUS-Pulkovo42_5044	пос. Баранчинский, Свердловская область	Baranchinskiy town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Beloyarsk-1	+	60.05	0	1	0	-6211057.636	60	63	56	57	RUS-Pulkovo42_5044	Белоярский район, Свердловская область, вар. 1	Beloyarskiy district, Sverdlovsk Region, var. 1	ru;town	MAPINFOW	
-RUS-MSK66-Beloyarsk-2	+	60.05	0	1	500000	-6000000	60	63	56	57	RUS-Pulkovo42_5044	Белоярский район, Свердловская область, вар. 2	Beloyarskiy district, Sverdlovsk Region, var. 2	ru;town	MAPINFOW	
-RUS-MSK66-Berezovsk	+	60	0	1	0	0	60	62	56	58	RUS-Pulkovo42_5044	г. Березовский, Свердловская область	Berezovsky town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Bilimbay		60	0	1.000000032	32905.39	-6303669.32	59	60	56	58	RUS-Pulkovo42_5044	г. Билимбай, Свердловская область	Bilimbay town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Bitimka	+	60.05	0	1	100000	-6311057.63	59	61	56	58	RUS-Pulkovo42_5044	н.п. Битимка, Верес, Крылас, Кауров; Свердловская область	Bitimka and nearest district, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Bogdanov-1	+	63	0	1	200000	-6008671.82	61	63	56	58	RUS-Pulkovo42_5044	п. Богданович (от СК 63), Свердловская область, вар. 1	Bogdanovich town (by SK-63), Sverdlovsk Region, var. 1	ru;town	MAPINFOW	
-RUS-MSK66-Bogdanov-2	+	63	0	1	60000	-6280000	61	63	56	58	RUS-Pulkovo42_5044	п. Богданович (от GK зоны 11), Свердловская область, вар. 2	Bogdanovich town (by GK-zone 11), Sverdlovsk Region, var. 2	ru;town	MAPINFOW	
-RUS-MSK66-Bulanash	+	63	0	1	65000	-6239423.64	61	63	57	58	RUS-Pulkovo42_5044	г. БуланашСвердловская область	Bulanash town, Sverdlovsk Region	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
-RUS-MSK66-Chamara	+	57	0	1	-61110.15	-6343230.36	57	59	56	58	RUS-Pulkovo42_5044	пос. Шамары, Свердловская область	Chamara town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Cousino		60	0	1.00000000009	42247.39	-6307308.71	59	60	56	58	RUS-Pulkovo42_5044	г. Кузино, Свердловская область	Cousino town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Degtarsk	+	60	0	1	0	0	59	61	56	57	RUS-Pulkovo42_5044	г. Дегтярск, Свердловская область	Degtarsk, Sverdlovsk Region	ru;town	MAPINFOW	
+RUS-MSK65-Tomarinsky	+	141	0	1	10956	-5198976	136	160	42	55	RUS-Pulkovo42_5044	Томаринский район, Сахалинская область	Tomarinsky district, Sakhalin region	ru;region	geodesist	
+RUS-MSK65-YuzSakhalinsk	+	142.7433416667	0	1	11102.784	-5192915.216	142	143	46	48	RUS-Pulkovo42_5044	г. Южно-Сахалинск, Сахалинская область	Yuzhno-Sakhalinsk town, Sakhalin region	ru;town	geodesist	
+RUS-MSK65-Zone1	+	142.71666666667	0	1	1300000	-4516586.439	136	160	42	55	RUS-Pulkovo42_5044	Сахалинская область, МСК-65 зона 1	Sakhalin region, LCS-65 zone 1	ru;region		
+RUS-MSK65-Zone2	+	145.71666666667	0	1	2300000	-4516586.439	136	160	42	55	RUS-Pulkovo42_5044	Сахалинская область, МСК-65 зона 2	Sakhalin region, LCS-65 zone 2	ru;region	geodesist	
+RUS-MSK65-Zone3	+	148.71666666667	0	1	3300000	-4516586.439	136	160	42	55	RUS-Pulkovo42_5044	Сахалинская область, МСК-65 зона 3	Sakhalin region, LCS-65 zone 3	ru;region	geodesist	
+RUS-MSK65-Zone4	+	151.71666666667	0	1	4300000	-4516586.439	136	160	42	55	RUS-Pulkovo42_5044	Сахалинская область, МСК-65 зона 4	Sakhalin region, LCS-65 zone 4	ru;region	geodesist	
+RUS-MSK65-Zone5	+	154.71666666667	0	1	5300000	-4516586.439	136	160	42	55	RUS-Pulkovo42_5044	Сахалинская область, МСК-65 зона 5	Sakhalin region, LCS-65 zone 5	ru;region	geodesist	
+RUS-MSK66-AjtiSagra-1		60	0	1.000034	-1037.08	-6307197.53	60	61	56	58	RUS-Pulkovo42_5044	п. Аять, Сагра; Свердловская область, вар. 1	Ayat, Sagra town; Sverdlovsk region, var. 1	ru;town	MAPINFOW	
+RUS-MSK66-AjtiSagra-2		60	0	1.000034	-946.41	-6307221.53	60	61	56	58	RUS-Pulkovo42_5044	п. Аять, Сагра; Свердловская область, вар. 2	Ayat, Sagra town; Sverdlovsk region, var. 2	ru;town	MAPINFOW	
+RUS-MSK66-Alapaevsk-1	+	63	0	1	86708.1	-6407633.81	61	63	57	59	RUS-Pulkovo42_5044	г. Алапаевск, Свердловская область, вар. 1	Alapaevsk town, Sverdlovsk region, var. 1	ru;town	MAPINFOW	
+RUS-MSK66-Alapaevsk-2		61.706231	0	1.00000004	10000	-6417633.81	61	63	57	59	RUS-Pulkovo42_5044	г. Алапаевск, Свердловская область, вар. 2	Alapaevsk town, Sverdlovsk region, var. 2	ru;town	MAPINFOW	
+RUS-MSK66-Artemovski	+	63	0.999972	1	78578.08	-6238432.59	59	60	58	59	RUS-Pulkovo42_5044	г. Артемовский, Свердловская область	Artemovskiy town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Asbest	+	63	0	1	105500	-6289500	61	63	56	58	RUS-Pulkovo42_5044	г. Асбест, Свердловская область	Asbest town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Baranchins		60.05	0	1.000034	41975.95	-6433788.51	59	60	58	59	RUS-Pulkovo42_5044	пос. Баранчинский, Свердловская область	Baranchinskiy town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Beloyarsk-1	+	60.05	0	1	0	-6211057.636	60	63	56	57	RUS-Pulkovo42_5044	Белоярский район, Свердловская область, вар. 1	Beloyarskiy district, Sverdlovsk region, var. 1	ru;town	MAPINFOW	
+RUS-MSK66-Beloyarsk-2	+	60.05	0	1	500000	-6000000	60	63	56	57	RUS-Pulkovo42_5044	Белоярский район, Свердловская область, вар. 2	Beloyarskiy district, Sverdlovsk region, var. 2	ru;town	MAPINFOW	
+RUS-MSK66-Berezovsk	+	60	0	1	0	0	60	62	56	58	RUS-Pulkovo42_5044	г. Березовский, Свердловская область	Berezovsky town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Bilimbay		60	0	1.000000032	32905.39	-6303669.32	59	60	56	58	RUS-Pulkovo42_5044	г. Билимбай, Свердловская область	Bilimbay town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Bitimka	+	60.05	0	1	100000	-6311057.63	59	61	56	58	RUS-Pulkovo42_5044	н.п. Битимка, Верес, Крылас, Кауров; Свердловская область	Bitimka and nearest district, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Bogdanov-1	+	63	0	1	200000	-6008671.82	61	63	56	58	RUS-Pulkovo42_5044	п. Богданович (от СК 63), Свердловская область, вар. 1	Bogdanovich town (by SK-63), Sverdlovsk region, var. 1	ru;town	MAPINFOW	
+RUS-MSK66-Bogdanov-2	+	63	0	1	60000	-6280000	61	63	56	58	RUS-Pulkovo42_5044	п. Богданович (от GK зоны 11), Свердловская область, вар. 2	Bogdanovich town (by GK-zone 11), Sverdlovsk region, var. 2	ru;town	MAPINFOW	
+RUS-MSK66-Bulanash	+	63	0	1	65000	-6239423.64	61	63	57	58	RUS-Pulkovo42_5044	г. БуланашСвердловская область	Bulanash town, Sverdlovsk region	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+RUS-MSK66-Chamara	+	57	0	1	-61110.15	-6343230.36	57	59	56	58	RUS-Pulkovo42_5044	пос. Шамары, Свердловская область	Chamara town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Cousino		60	0	1.00000000009	42247.39	-6307308.71	59	60	56	58	RUS-Pulkovo42_5044	г. Кузино, Свердловская область	Cousino town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Degtarsk	+	60	0	1	0	0	59	61	56	57	RUS-Pulkovo42_5044	г. Дегтярск, Свердловская область	Degtarsk, Sverdlovsk region	ru;town	MAPINFOW	
 RUS-MSK66-Ekaterinbur-1		60.58451389	0	1.00003671511	40255.471	-6261675.288	56	68	55	62	RUS-Pulkovo42_5044	г. Екатеринбург, Свердловская область, вар. 1	Ekaterinburg town, Sverdlovsk region, var. 1	ru;town	geodesist	
 RUS-MSK66-Ekaterinbur-2		60.5845138889	0	1.000036715112	40255.471	-6261675.288	56	68	55	62	RUS-Pulkovo42_5044	г. Екатеринбург, Свердловская область, вар. 2	Ekaterinburg town, Sverdlovsk region, var. 2	ru;town	geodesist	
-RUS-MSK66-Gagarskiy	+	60.05	0	1	0	-6200000	61	62	56	57	RUS-Pulkovo42_5044	г. Гагарский, Свердловская область	Gagarskiy, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Irbit	+	63	0	1	22823.2	-6370346.7	62	64	57	59	RUS-Pulkovo42_5044	г. Ирбит, Свердловская область	Irbit town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Ivdeli1	+	60	0	1	-46.89	-6610442.05	58	64	60	63	RUS-Pulkovo42_5044	г. Ивдель, Свердловская область, вар. 1	Ivdeli town system, Sverdlovsk Region, var. 1	ru;town	MAPINFOW	
-RUS-MSK66-Ivdeli2	+	60	0	1	-46.7	-6721018.41	58	64	60	63	RUS-Pulkovo42_5044	г. Ивдель, Свердловская область, вар. 2	Ivdeli town system, Sverdlovsk Region, var. 2	ru;town	MAPINFOW	
-RUS-MSK66-Izumrud	+	60.05	0	1	-73227.56	-6313798.59	61	62	56	58	RUS-Pulkovo42_5044	г. Изумруд, Свердловская область	Izumrud town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Kachkanar	+	60	0	1	32000	-6508000	59	61	58	60	RUS-Pulkovo42_5044	г. Качканар, Свердловская область	Kachkanar town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-KamUrall-1		61.9166667	0	1.0000267	0	0	61	63	56	57	RUS-Pulkovo42_5044	г. Каменск Уральский, Свердловская область, вар. 1	Kamensk-Uralsky town, Sverdlovsk Region, var. 1	ru;town	MAPINFOW	
-RUS-MSK66-KamUrall-2	+	61.990652	0	1	0	0	61	63	56	57	RUS-Pulkovo42_5044	г. Каменск Уральский, Свердловская область, вар. 2	Kamensk-Uralsky town, Sverdlovsk Region, var. 2	ru;town	MAPINFOW	
-RUS-MSK66-Kamyshlov	+	63	0	1	31894.09	-6290987.3	62	64	56	58	RUS-Pulkovo42_5044	Камышлов, Свердловская область	Kamyshlov town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Karpinsk	+	60	0	1	-108.45	-6600021.17	58	61	59	61	RUS-Pulkovo42_5044	г. Карпинск, Свердловская область	Karpinsk town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Karpuninsk	+	63.05	0	1	0	0	61	63	58	59	RUS-Pulkovo42_5044	г. Карпунинский, Свердловская область	Karpuninskii town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Kosulino	+	63	0	1	31894.09	-6290987.3	60	62	56	57	RUS-Pulkovo42_5044	г. Косулино, Свердловская область	Kosulino town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Krasnogvar	+	63	0	1	96992.849	-6311024.767	62	63	57	58	RUS-Pulkovo42_5044	г. Красногвардейский, Свердловская область	Krasnogvardeisk town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Krasnotur	+	60	0	1	2191.48	-6612314.07	58	61	59	61	RUS-Pulkovo42_5044	г. Краснотурьинск, Свердловская область	Krasnoturinsk town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Krasnoufim	+	57	0	1	-27928.24	-6258594.63	57	59	56	58	RUS-Pulkovo42_5044	г. Красноуфимск, Свердловская область	KrasnoufiLCS town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Kuryi	+	60.05	0	1	-100000	-6311057.63	61	63	56	58	RUS-Pulkovo42_5044	г. Курьи, Свердловская область	Kuryi town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Kushva-1		60	0	1.000003	0.09	-6289423.21	58	61	57	59	RUS-Pulkovo42_5044	г. Кушва, Свердловская область, вар 1	Kushva town, Sverdlovsk Region, var. 1	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
-RUS-MSK66-Kushva-2	+	60	0	1	0.09	-6289423.54	58	61	57	59	RUS-Pulkovo42_5044	г. Кушва, Свердловская область, вар 2	Kushva town, Sverdlovsk Region, var. 2	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
-RUS-MSK66-Losinyy	+	60.05	0	1	-50000	-6330057.63	61	62	57	58	RUS-Pulkovo42_5044	г. Лосиный, Свердловская область	Losinyy town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Luch	+	60.05	0	1	-60329.012	-6210661.47	60	61	57	58	RUS-Pulkovo42_5044	п.Лучи, Свердловская область	Luchi town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Malicheva	+	63	0	1	105739.52	-6314115.74	61	62	57	58	RUS-Pulkovo42_5044	п.Малышева, Свердловская область	Malicheva town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Mezenskoy	+	60.05	0	1	0	-6211057.63	60	63	56	57	RUS-Pulkovo42_5044	г. Мезенское, Свердловская область	Mezenskoye town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Mikhailov	+	60	0	1	71893.25	-6087200.39	58	60	56	57	RUS-Pulkovo42_5044	г. Михайловск, Свердловская область	Mikhailovsk town, Sverdlovsk Region	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
-RUS-MSK66-Monetnyy-1	+	60	0	1	-39005.46	-6305008.48	60	61	56	58	RUS-Pulkovo42_5044	г. Монетный-УТИГГН, Свердловская область	Monetnyy town, Sverdlovsk Region, var. 1	ru;town	MAPINFOW	
-RUS-MSK66-Monetnyy-2	+	60.05	0	1	-35987.9	-6304978	60	61	56	58	RUS-Pulkovo42_5044	г. Монетный-свх, Свердловская область	Monetnyy town, Sverdlovsk Region, var. 2	ru;town	MAPINFOW	
-RUS-MSK66-Mostovskoi	+	60	0	1	-3033.93	-6311094.94	60	61	57	58	RUS-Pulkovo42_5044	с. Мостовское, Свердловская область	Mostovskoi town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Murzinka	+	60	0	1	-3033.93	-6311094.94	60	61	57	58	RUS-Pulkovo42_5044	г. Мурзинка, Свердловская область	Murzinka town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Nevyansk-1	+	60	0	1	0	-6308671.56	59	62	56	58	RUS-Pulkovo42_5044	г. Невьянск, Свердловская область, вар. 1	Nevyansk town, Sverdlovsk Region, var. 1	ru;town	MAPINFOW	
-RUS-MSK66-Nevyansk-2	+	60	0	1	-1037.08	-6307197.53	59	62	56	58	RUS-Pulkovo42_5044	г. Невьянск, Свердловская область, вар. 2	Nevyansk town, Sverdlovsk Region, var. 2	ru;town	MAPINFOW	
-RUS-MSK66-NizhnTura-1	+	60	0	1	39305.25	-6370480.54	59	61	58	59	RUS-Pulkovo42_5044	г. Нижняя Тура, Свердловская область, вар. 1	Nizhnyaya Tura town, Sverdlovsk Region, var. 1	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
-RUS-MSK66-NizhnTura-2	+	60	0	1	29137.05	-6488806.7	59	61	58	59	RUS-Pulkovo42_5044	г. Нижняя Тура, Свердловская область, вар. 2	Nizhnyaya Tura town, Sverdlovsk Region, var. 2	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
-RUS-MSK66-NizhnTura-3	+	60.05	0	1	32042.17	-6488814.6	59	61	58	59	RUS-Pulkovo42_5044	г. Нижняя Тура, Свердловская область, вар. 3	Nizhnyaya Tura town, Sverdlovsk Region, var. 3	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
-RUS-MSK66-NizhnySergi	+	60	0	1	55616.07	-6163051.41	59	60	56	57	RUS-Pulkovo42_5044	г. Нижние Серьги, Свердловская область	Nizhny Sergi town, Sverdlovsk Region	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
-RUS-MSK66-NizhnyTagil		60	0	0.99999654	27190.61	-6396025.66	59	61	57	59	RUS-Pulkovo42_5044	г. Нижний Тагил, Свердловская область	Nizhny Tagil town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-NovaLala	+	60	0	1	17415.04	-6377551.47	60	62	58	60	RUS-Pulkovo42_5044	г. Новая Ляля, Свердловская область	Nova Lala town, Sverdlovsk Region	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
-RUS-MSK66-Novoural-1	+	60	0	1	43142.96	-6298888.15	59	61	57	58	RUS-Pulkovo42_5044	г. Новоуральск, Свердловская область, вар. 1	Novouralsk town, Sverdlovsk Region, var. 1	ru;town	MAPINFOW	
-RUS-MSK66-Novoural-2	+	60	0	1	21	-6300000	59	61	57	58	RUS-Pulkovo42_5044	г. Новоуральск, Свердловская область, вар. 2	Novouralsk town, Sverdlovsk Region, var. 2	ru;town	MAPINFOW	
-RUS-MSK66-Novoutk		60	0	1.00000000009	42440.71	-6305740.06	59	60	56	58	RUS-Pulkovo42_5044	г. Новоуткинск, Свердловская область	Novoutkinsk town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Pervoural	+	60	0	1	43680.37	-6269601.03	59	61	56	58	RUS-Pulkovo42_5044	г. Первоуральск и Ревда, Свердловская область	Pervouralsk, Revda town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Pisanes	+	63	0	1	61580.51	-6350900.65	61	63	57	58	RUS-Pulkovo42_5044	г. Писанец, Свердловская область	Pisanes town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Polunochoe-1	+	60	0	1	1.03	-6700001.73	58	64	60	63	RUS-Pulkovo42_5044	г. Полуночное, Свердловская область, вар. 1	Polunochnoe town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Polunochoe-2	+	60.05	0	1	2717.83	-6699986.98	58	64	60	63	RUS-Pulkovo42_5044	г. Полуночное, Свердловская область, вар. 2 (от СК 63-1)	Polunochnoe town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Pyshma	+	66.05	0	1	200000	-6311057.64	63	64	56	58	RUS-Pulkovo42_5044	г. Пышма, Свердловская область	Pyshma town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Rassokha	+	60.05	0	1	0	-6211057.636	60	62	56	57	RUS-Pulkovo42_5044	г. Рассоха, Свердловская область	Rassokha town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Rastushchi	+	60.05	0	1	0	-6000000	60	62	56	57	RUS-Pulkovo42_5044	пос. Растущий, Свердловская область	Rastushchiy town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Reft	+	60.05	0	1	-100000	-6311057.63	61	63	56	58	RUS-Pulkovo42_5044	пос. Рефт, Свердловская область	Reft town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Reftinskiy	+	60.05	0	1	-72248.25	-6311666.79	61	63	56	58	RUS-Pulkovo42_5044	пгт Рефтинский, Свердловская область	Reftinskiy town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Rezh	+	60	0	1	-64567.79	-6342655.24	60	62	57	58	RUS-Pulkovo42_5044	г. Реж, Свердловская область	Rezh town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Salda	+	60	0	1	0	-6400000	60	62	59	59	RUS-Pulkovo42_5044	г. Верхняя Салда, Нижняя Салда, Свердловская область	Salda town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Serov		60	0	1.00000003	-13972.24	-6479266.84	59	62	59	61	RUS-Pulkovo42_5044	г. Серов, Свердловская область	Serov town, Sverdlovsk Region	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
-RUS-MSK66-Severoural	+	60	0	1	10177.78	-6660824.38	59	61	59	61	RUS-Pulkovo42_5044	г. Североуральск, Свердловская область	Severouralsk town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Shameyski	+	60.05	0	1	-72987.1	-6314016.26	61	62	57	58	RUS-Pulkovo42_5044	пос. Шамейский, Свердловская область	Shameyskiy town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-SosnovBor	+	63	0	1	53892.22	-6350923.64	62	63	57	58	RUS-Pulkovo42_5044	Сосновый Бор, Свердловская область	Sosnovi Bor town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Sosnovskii	+	60.05	0	1	-60349.8	-6210670.59	61	63	56	58	RUS-Pulkovo42_5044	г. Сосновский, Свердловская область	Sosnovskii town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Sosva	+	63	0	1	79002.19	-6551012.59	60	63	58	60	RUS-Pulkovo42_5044	г. Сосьва, Свердловская область	Sosva town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Staroutkin	+	60.05	0	1	100000	-6311057.63	58	60	57	58	RUS-Pulkovo42_5044	г. Староуткинск, Свердловская область	Staroutkin town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-SukhoiLg-1	+	63	0	1	70760.585	-6299985.25	61	63	56	58	RUS-Pulkovo42_5044	г. Сухой Лог, Свердловская область, вар. 1	Sukhoi Log town, Sverdlovsk Region, var. 1	ru;town	MAPINFOW	
-RUS-MSK66-SukhoiLg-2	+	63	0	1	70760.64	-6299985.17	61	63	56	58	RUS-Pulkovo42_5044	г. Сухой Лог, Свердловская область, вар. 2	Sukhoi Log town, Sverdlovsk Region, var. 2	ru;town	MAPINFOW	
-RUS-MSK66-Talitsa	+	63	0	1	-13659.24	-6292592.94	62	65	56	58	RUS-Pulkovo42_5044	г. Талица, Свердловская область	Talitsa town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Tavda	+	66	0	1	62502.24	-6416153.69	64	67	57	59	RUS-Pulkovo42_5044	г. Тавда, Свердловская область	Tavda town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Turinsk	+	63	0	1	-29986.85	-6427222.54	62	65	57	59	RUS-Pulkovo42_5044	г. Туринск, Свердловская область	Turinsk town, Sverdlovsk Region	ru;town	MAPINFOW	
+RUS-MSK66-Gagarskiy	+	60.05	0	1	0	-6200000	61	62	56	57	RUS-Pulkovo42_5044	г. Гагарский, Свердловская область	Gagarskiy, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Irbit	+	63	0	1	22823.2	-6370346.7	62	64	57	59	RUS-Pulkovo42_5044	г. Ирбит, Свердловская область	Irbit town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Ivdeli1	+	60	0	1	-46.89	-6610442.05	58	64	60	63	RUS-Pulkovo42_5044	г. Ивдель, Свердловская область, вар. 1	Ivdeli town system, Sverdlovsk region, var. 1	ru;town	MAPINFOW	
+RUS-MSK66-Ivdeli2	+	60	0	1	-46.7	-6721018.41	58	64	60	63	RUS-Pulkovo42_5044	г. Ивдель, Свердловская область, вар. 2	Ivdeli town system, Sverdlovsk region, var. 2	ru;town	MAPINFOW	
+RUS-MSK66-Izumrud	+	60.05	0	1	-73227.56	-6313798.59	61	62	56	58	RUS-Pulkovo42_5044	г. Изумруд, Свердловская область	Izumrud town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Kachkanar	+	60	0	1	32000	-6508000	59	61	58	60	RUS-Pulkovo42_5044	г. Качканар, Свердловская область	Kachkanar town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-KamUrall-1		61.9166667	0	1.0000267	0	0	61	63	56	57	RUS-Pulkovo42_5044	г. Каменск Уральский, Свердловская область, вар. 1	Kamensk-Uralsky town, Sverdlovsk region, var. 1	ru;town	MAPINFOW	
+RUS-MSK66-KamUrall-2	+	61.990652	0	1	0	0	61	63	56	57	RUS-Pulkovo42_5044	г. Каменск Уральский, Свердловская область, вар. 2	Kamensk-Uralsky town, Sverdlovsk region, var. 2	ru;town	MAPINFOW	
+RUS-MSK66-Kamyshlov	+	63	0	1	31894.09	-6290987.3	62	64	56	58	RUS-Pulkovo42_5044	Камышлов, Свердловская область	Kamyshlov town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Karpinsk	+	60	0	1	-108.45	-6600021.17	58	61	59	61	RUS-Pulkovo42_5044	г. Карпинск, Свердловская область	Karpinsk town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Karpuninsk	+	63.05	0	1	0	0	61	63	58	59	RUS-Pulkovo42_5044	г. Карпунинский, Свердловская область	Karpuninskii town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Kosulino	+	63	0	1	31894.09	-6290987.3	60	62	56	57	RUS-Pulkovo42_5044	г. Косулино, Свердловская область	Kosulino town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Krasnogvar	+	63	0	1	96992.849	-6311024.767	62	63	57	58	RUS-Pulkovo42_5044	г. Красногвардейский, Свердловская область	Krasnogvardeisk town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Krasnotur	+	60	0	1	2191.48	-6612314.07	58	61	59	61	RUS-Pulkovo42_5044	г. Краснотурьинск, Свердловская область	Krasnoturinsk town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Krasnoufim	+	57	0	1	-27928.24	-6258594.63	57	59	56	58	RUS-Pulkovo42_5044	г. Красноуфимск, Свердловская область	KrasnoufiLCS town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Kuryi	+	60.05	0	1	-100000	-6311057.63	61	63	56	58	RUS-Pulkovo42_5044	г. Курьи, Свердловская область	Kuryi town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Kushva-1		60	0	1.000003	0.09	-6289423.21	58	61	57	59	RUS-Pulkovo42_5044	г. Кушва, Свердловская область, вар 1	Kushva town, Sverdlovsk region, var. 1	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+RUS-MSK66-Kushva-2	+	60	0	1	0.09	-6289423.54	58	61	57	59	RUS-Pulkovo42_5044	г. Кушва, Свердловская область, вар 2	Kushva town, Sverdlovsk region, var. 2	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+RUS-MSK66-Losinyy	+	60.05	0	1	-50000	-6330057.63	61	62	57	58	RUS-Pulkovo42_5044	г. Лосиный, Свердловская область	Losinyy town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Luch	+	60.05	0	1	-60329.012	-6210661.47	60	61	57	58	RUS-Pulkovo42_5044	п.Лучи, Свердловская область	Luchi town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Malicheva	+	63	0	1	105739.52	-6314115.74	61	62	57	58	RUS-Pulkovo42_5044	п.Малышева, Свердловская область	Malicheva town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Mezenskoy	+	60.05	0	1	0	-6211057.63	60	63	56	57	RUS-Pulkovo42_5044	г. Мезенское, Свердловская область	Mezenskoye town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Mikhailov	+	60	0	1	71893.25	-6087200.39	58	60	56	57	RUS-Pulkovo42_5044	г. Михайловск, Свердловская область	Mikhailovsk town, Sverdlovsk region	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+RUS-MSK66-Monetnyy-1	+	60	0	1	-39005.46	-6305008.48	60	61	56	58	RUS-Pulkovo42_5044	г. Монетный-УТИГГН, Свердловская область	Monetnyy town, Sverdlovsk region, var. 1	ru;town	MAPINFOW	
+RUS-MSK66-Monetnyy-2	+	60.05	0	1	-35987.9	-6304978	60	61	56	58	RUS-Pulkovo42_5044	г. Монетный-свх, Свердловская область	Monetnyy town, Sverdlovsk region, var. 2	ru;town	MAPINFOW	
+RUS-MSK66-Mostovskoi	+	60	0	1	-3033.93	-6311094.94	60	61	57	58	RUS-Pulkovo42_5044	с. Мостовское, Свердловская область	Mostovskoi town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Murzinka	+	60	0	1	-3033.93	-6311094.94	60	61	57	58	RUS-Pulkovo42_5044	г. Мурзинка, Свердловская область	Murzinka town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Nevyansk-1	+	60	0	1	0	-6308671.56	59	62	56	58	RUS-Pulkovo42_5044	г. Невьянск, Свердловская область, вар. 1	Nevyansk town, Sverdlovsk region, var. 1	ru;town	MAPINFOW	
+RUS-MSK66-Nevyansk-2	+	60	0	1	-1037.08	-6307197.53	59	62	56	58	RUS-Pulkovo42_5044	г. Невьянск, Свердловская область, вар. 2	Nevyansk town, Sverdlovsk region, var. 2	ru;town	MAPINFOW	
+RUS-MSK66-NizhnTura-1	+	60	0	1	39305.25	-6370480.54	59	61	58	59	RUS-Pulkovo42_5044	г. Нижняя Тура, Свердловская область, вар. 1	Nizhnyaya Tura town, Sverdlovsk region, var. 1	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+RUS-MSK66-NizhnTura-2	+	60	0	1	29137.05	-6488806.7	59	61	58	59	RUS-Pulkovo42_5044	г. Нижняя Тура, Свердловская область, вар. 2	Nizhnyaya Tura town, Sverdlovsk region, var. 2	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+RUS-MSK66-NizhnTura-3	+	60.05	0	1	32042.17	-6488814.6	59	61	58	59	RUS-Pulkovo42_5044	г. Нижняя Тура, Свердловская область, вар. 3	Nizhnyaya Tura town, Sverdlovsk region, var. 3	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+RUS-MSK66-NizhnySergi	+	60	0	1	55616.07	-6163051.41	59	60	56	57	RUS-Pulkovo42_5044	г. Нижние Серьги, Свердловская область	Nizhny Sergi town, Sverdlovsk region	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+RUS-MSK66-NizhnyTagil		60	0	0.99999654	27190.61	-6396025.66	59	61	57	59	RUS-Pulkovo42_5044	г. Нижний Тагил, Свердловская область	Nizhny Tagil town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-NovaLala	+	60	0	1	17415.04	-6377551.47	60	62	58	60	RUS-Pulkovo42_5044	г. Новая Ляля, Свердловская область	Nova Lala town, Sverdlovsk region	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+RUS-MSK66-Novoural-1	+	60	0	1	43142.96	-6298888.15	59	61	57	58	RUS-Pulkovo42_5044	г. Новоуральск, Свердловская область, вар. 1	Novouralsk town, Sverdlovsk region, var. 1	ru;town	MAPINFOW	
+RUS-MSK66-Novoural-2	+	60	0	1	21	-6300000	59	61	57	58	RUS-Pulkovo42_5044	г. Новоуральск, Свердловская область, вар. 2	Novouralsk town, Sverdlovsk region, var. 2	ru;town	MAPINFOW	
+RUS-MSK66-Novoutk		60	0	1.00000000009	42440.71	-6305740.06	59	60	56	58	RUS-Pulkovo42_5044	г. Новоуткинск, Свердловская область	Novoutkinsk town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Pervoural	+	60	0	1	43680.37	-6269601.03	59	61	56	58	RUS-Pulkovo42_5044	г. Первоуральск и Ревда, Свердловская область	Pervouralsk, Revda town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Pisanes	+	63	0	1	61580.51	-6350900.65	61	63	57	58	RUS-Pulkovo42_5044	г. Писанец, Свердловская область	Pisanes town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Polunochoe-1	+	60	0	1	1.03	-6700001.73	58	64	60	63	RUS-Pulkovo42_5044	г. Полуночное, Свердловская область, вар. 1	Polunochnoe town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Polunochoe-2	+	60.05	0	1	2717.83	-6699986.98	58	64	60	63	RUS-Pulkovo42_5044	г. Полуночное, Свердловская область, вар. 2 (от СК 63-1)	Polunochnoe town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Pyshma	+	66.05	0	1	200000	-6311057.64	63	64	56	58	RUS-Pulkovo42_5044	г. Пышма, Свердловская область	Pyshma town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Rassokha	+	60.05	0	1	0	-6211057.636	60	62	56	57	RUS-Pulkovo42_5044	г. Рассоха, Свердловская область	Rassokha town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Rastushchi	+	60.05	0	1	0	-6000000	60	62	56	57	RUS-Pulkovo42_5044	пос. Растущий, Свердловская область	Rastushchiy town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Reft	+	60.05	0	1	-100000	-6311057.63	61	63	56	58	RUS-Pulkovo42_5044	пос. Рефт, Свердловская область	Reft town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Reftinskiy	+	60.05	0	1	-72248.25	-6311666.79	61	63	56	58	RUS-Pulkovo42_5044	пгт Рефтинский, Свердловская область	Reftinskiy town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Rezh	+	60	0	1	-64567.79	-6342655.24	60	62	57	58	RUS-Pulkovo42_5044	г. Реж, Свердловская область	Rezh town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Salda	+	60	0	1	0	-6400000	60	62	58	60	RUS-Pulkovo42_5044	г. Верхняя Салда, Нижняя Салда, Свердловская область	Salda town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Serov		60	0	1.00000003	-13972.24	-6479266.84	59	62	59	61	RUS-Pulkovo42_5044	г. Серов, Свердловская область	Serov town, Sverdlovsk region	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+RUS-MSK66-Severoural	+	60	0	1	10177.78	-6660824.38	59	61	59	61	RUS-Pulkovo42_5044	г. Североуральск, Свердловская область	Severouralsk town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Shameyski	+	60.05	0	1	-72987.1	-6314016.26	61	62	57	58	RUS-Pulkovo42_5044	пос. Шамейский, Свердловская область	Shameyskiy town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-SosnovBor	+	63	0	1	53892.22	-6350923.64	62	63	57	58	RUS-Pulkovo42_5044	Сосновый Бор, Свердловская область	Sosnovi Bor town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Sosnovskii	+	60.05	0	1	-60349.8	-6210670.59	61	63	56	58	RUS-Pulkovo42_5044	г. Сосновский, Свердловская область	Sosnovskii town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Sosva	+	63	0	1	79002.19	-6551012.59	60	63	58	60	RUS-Pulkovo42_5044	г. Сосьва, Свердловская область	Sosva town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Staroutkin	+	60.05	0	1	100000	-6311057.63	58	60	57	58	RUS-Pulkovo42_5044	г. Староуткинск, Свердловская область	Staroutkin town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-SukhoiLg-1	+	63	0	1	70760.585	-6299985.25	61	63	56	58	RUS-Pulkovo42_5044	г. Сухой Лог, Свердловская область, вар. 1	Sukhoi Log town, Sverdlovsk region, var. 1	ru;town	MAPINFOW	
+RUS-MSK66-SukhoiLg-2	+	63	0	1	70760.64	-6299985.17	61	63	56	58	RUS-Pulkovo42_5044	г. Сухой Лог, Свердловская область, вар. 2	Sukhoi Log town, Sverdlovsk region, var. 2	ru;town	MAPINFOW	
+RUS-MSK66-Talitsa	+	63	0	1	-13659.24	-6292592.94	62	65	56	58	RUS-Pulkovo42_5044	г. Талица, Свердловская область	Talitsa town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Tavda	+	66	0	1	62502.24	-6416153.69	64	67	57	59	RUS-Pulkovo42_5044	г. Тавда, Свердловская область	Tavda town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Turinsk	+	63	0	1	-29986.85	-6427222.54	62	65	57	59	RUS-Pulkovo42_5044	г. Туринск, Свердловская область	Turinsk town, Sverdlovsk region	ru;town	MAPINFOW	
 RUS-MSK66-VerkhSin		63	0	1.00000004	98115.8	-6411304.11	61	62	57	59	RUS-Pulkovo42_5044	п. Верхняя Синячиха, Свердловская область	Verkhnyaya Sinyachikha	ru;town	MAPINFOW	
-RUS-MSK66-VerkhTagil	+	60	0	1	15999.82	-6299656.43	59	61	57	58	RUS-Pulkovo42_5044	г. Верхний Тагил, Свердловская область	Verkhny Tagil town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-VerNeyvin	+	60	0	1	-3453.69	-6345254.83	59	61	57	58	RUS-Pulkovo42_5044	пос. Верх-Нейвинский, Свердловская область	Verkh Neyvinsk town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Volchansk	+	60	0	1	0	-6600000	59	61	59	61	RUS-Pulkovo42_5044	Волчанск, Свердловская область	Volchansk town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Vostochny	+	60.05	0	1	1000	-210000	61	63	58	60	RUS-Pulkovo42_5044	пос. Восточный, Свердловская область	Vostochnyy town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-ZATO	+	60	0	1	21	-6300000	60	63	56	57	RUS-Pulkovo42_5044	пос. ЗАТО, Свердловская область	ZATO town, Sverdlovsk Region	ru;town	MAPINFOW	
-RUS-MSK66-Zone1	+	60.05	0	1	1500000	-5911057.63	56	68	55	62	RUS-Pulkovo42_5044	Свердловская область, МСК-66 зона 1	Sverdlovsk Region, LCS-66 zone 1	ru;region		
-RUS-MSK66-Zone1-6d	+	60.05	0	1	1500000	-5911057.63	56	68	55	62	RUS-Pulkovo42_5044	Свердловская область, МСК-66 зона 2	Sverdlovsk Region, LCS-66 zone 1 (6 degree zone)	ru;region		
-RUS-MSK66-Zone2	+	63.05	0	1	2500000	-5911057.63	56	68	55	62	RUS-Pulkovo42_5044	Свердловская область, МСК-66 зона 3	Sverdlovsk Region, LCS-66 zone 2	ru;region		
-RUS-MSK66-Zone2-6d	+	66.05	0	1	2500000	-5911057.63	56	68	55	62	RUS-Pulkovo42_5044	Свердловская область, МСК-66 зона 4	Sverdlovsk Region, LCS-66 zone 2 (6 degree zone)	ru;region		
-RUS-MSK66-Zone3	+	66.05	0	1	3500000	-5911057.63	56	68	55	62	RUS-Pulkovo42_5044	Свердловская область, МСК-66 зона 5	Sverdlovsk Region, LCS-66 zone 3	ru;region		
+RUS-MSK66-VerkhTagil	+	60	0	1	15999.82	-6299656.43	59	61	57	58	RUS-Pulkovo42_5044	г. Верхний Тагил, Свердловская область	Verkhny Tagil town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-VerNeyvin	+	60	0	1	-3453.69	-6345254.83	59	61	57	58	RUS-Pulkovo42_5044	пос. Верх-Нейвинский, Свердловская область	Verkh Neyvinsk town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Volchansk	+	60	0	1	0	-6600000	59	61	59	61	RUS-Pulkovo42_5044	Волчанск, Свердловская область	Volchansk town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Vostochny	+	60.05	0	1	1000	-210000	61	63	58	60	RUS-Pulkovo42_5044	пос. Восточный, Свердловская область	Vostochnyy town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-ZATO	+	60	0	1	21	-6300000	60	63	56	57	RUS-Pulkovo42_5044	пос. ЗАТО, Свердловская область	ZATO town, Sverdlovsk region	ru;town	MAPINFOW	
+RUS-MSK66-Zone1	+	60.05	0	1	1500000	-5911057.63	56	68	55	62	RUS-Pulkovo42_5044	Свердловская область, МСК-66 зона 1	Sverdlovsk region, LCS-66 zone 1	ru;region		
+RUS-MSK66-Zone1-6d	+	60.05	0	1	1500000	-5911057.63	56	68	55	62	RUS-Pulkovo42_5044	Свердловская область, МСК-66 зона 2	Sverdlovsk region, LCS-66 zone 1 (6 degree zone)	ru;region		
+RUS-MSK66-Zone2	+	63.05	0	1	2500000	-5911057.63	56	68	55	62	RUS-Pulkovo42_5044	Свердловская область, МСК-66 зона 3	Sverdlovsk region, LCS-66 zone 2	ru;region		
+RUS-MSK66-Zone2-6d	+	66.05	0	1	2500000	-5911057.63	56	68	55	62	RUS-Pulkovo42_5044	Свердловская область, МСК-66 зона 4	Sverdlovsk region, LCS-66 zone 2 (6 degree zone)	ru;region		
+RUS-MSK66-Zone3	+	66.05	0	1	3500000	-5911057.63	56	68	55	62	RUS-Pulkovo42_5044	Свердловская область, МСК-66 зона 5	Sverdlovsk region, LCS-66 zone 3	ru;region		
 RUS-MSK67-Zone1	+	32.48333333333	0	1	1250000	-5612900.56	30	36	53	57	RUS-Pulkovo42_5044	Смоленская область, МСК-67 зона 1	Smolensk region, LCS-67 zone 1	ru;region		
 RUS-MSK67-Zone2	+	35.48333333333	0	1	2250000	-5612900.56	30	36	53	57	RUS-Pulkovo42_5044	Смоленская область, МСК-67 зона 2	Smolensk region, LCS-67 zone 2	ru;region		
 RUS-MSK67-Zone3	+	38.48333333333	0	1	3250000	-5612900.56	30	36	53	57	RUS-Pulkovo42_5044	Смоленская область, МСК-67 зона 3	Smolensk region, LCS-67 zone 3	ru;region		
@@ -602,13 +603,13 @@ RUS-MSK68-Zone3	+	47.48333333333	0	1	3250000	-5412900.56	39	44	51	54	RUS-Pulkovo
 RUS-MSK69-Zone1	+	32.48333333333	0	1	1250000	-6012900.566	30	39	55	59	RUS-Pulkovo42_5044	Тверская область, МСК-69 зона 1	Tver region, LCS-69 zone 1	ru;region		
 RUS-MSK69-Zone2	+	35.48333333333	0	1	2250000	-6012900.566	30	39	55	59	RUS-Pulkovo42_5044	Тверская область, МСК-69 зона 2	Tver region, LCS-69 zone 2	ru;region		
 RUS-MSK69-Zone3	+	38.48333333333	0	1	3250000	-6012900.566	30	39	55	59	RUS-Pulkovo42_5044	Тверская область, МСК-69 зона 3	Tver region, LCS-69 zone 3	ru;region		
-RUS-MSK70-Tomsk	+	85	0	1	4250000	-5912900.566	73	91	55	62	RUS-Pulkovo42_5044	г. Томск, Томская область	ToLCS town, ToLCS region	ru;town		
-RUS-MSK70-Zone1	+	74.73333333333	0	1	1250000	-5912900.566	73	91	55	62	RUS-Pulkovo42_5044	Томская область, МСК-70 зона 1	ToLCS region, LCS-70 zone 1	ru;region		
-RUS-MSK70-Zone2	+	77.73333333333	0	1	2250000	-5912900.566	73	91	55	62	RUS-Pulkovo42_5044	Томская область, МСК-70 зона 2	ToLCS region, LCS-70 zone 2	ru;region		
-RUS-MSK70-Zone3	+	80.73333333333	0	1	3250000	-5912900.566	73	91	55	62	RUS-Pulkovo42_5044	Томская область, МСК-70 зона 3	ToLCS region, LCS-70 zone 3	ru;region		
-RUS-MSK70-Zone4	+	83.73333333333	0	1	4250000	-5912900.566	73	91	55	62	RUS-Pulkovo42_5044	Томская область, МСК-70 зона 4	ToLCS region, LCS-70 zone 4	ru;region		
-RUS-MSK70-Zone5	+	86.73333333333	0	1	5250000	-5912900.566	73	91	55	62	RUS-Pulkovo42_5044	Томская область, МСК-70 зона 5	ToLCS region, LCS-70 zone 5	ru;region		
-RUS-MSK70-Zone6	+	89.73333333333	0	1	6250000	-5912900.566	73	91	55	62	RUS-Pulkovo42_5044	Томская область, МСК-70 зона 6	ToLCS region, LCS-70 zone 6	ru;region		
+RUS-MSK70-Tomsk	+	85	0	1	4250000	-5912900.566	73	91	55	62	RUS-Pulkovo42_5044	г. Томск, Томская область	Tomsk town, Tomsk region	ru;town		
+RUS-MSK70-Zone1	+	74.73333333333	0	1	1250000	-5912900.566	73	91	55	62	RUS-Pulkovo42_5044	Томская область, МСК-70 зона 1	Tomsk region, LCS-70 zone 1	ru;region		
+RUS-MSK70-Zone2	+	77.73333333333	0	1	2250000	-5912900.566	73	91	55	62	RUS-Pulkovo42_5044	Томская область, МСК-70 зона 2	Tomsk region, LCS-70 zone 2	ru;region		
+RUS-MSK70-Zone3	+	80.73333333333	0	1	3250000	-5912900.566	73	91	55	62	RUS-Pulkovo42_5044	Томская область, МСК-70 зона 3	Tomsk region, LCS-70 zone 3	ru;region		
+RUS-MSK70-Zone4	+	83.73333333333	0	1	4250000	-5912900.566	73	91	55	62	RUS-Pulkovo42_5044	Томская область, МСК-70 зона 4	Tomsk region, LCS-70 zone 4	ru;region		
+RUS-MSK70-Zone5	+	86.73333333333	0	1	5250000	-5912900.566	73	91	55	62	RUS-Pulkovo42_5044	Томская область, МСК-70 зона 5	Tomsk region, LCS-70 zone 5	ru;region		
+RUS-MSK70-Zone6	+	89.73333333333	0	1	6250000	-5912900.566	73	91	55	62	RUS-Pulkovo42_5044	Томская область, МСК-70 зона 6	Tomsk region, LCS-70 zone 6	ru;region		
 RUS-MSK71-1-SK95	+	37.427222222222	0	1	250000	-5263444.764	35	40	52	56	RUS-Pulkovo42_5044	Тульская область (СК-95), МСК-71	Tula region, LCS-71 (based SK-95)	ru;region	MAPINFOW	
 RUS-MSK71-Zone1	+	35.48333333333	0	1	1250000	-5612900.563	35	40	52	56	RUS-Pulkovo42_5044	Тульская область, МСК-71 зона 1	Tula region, LCS-71 zone 1	ru;region		
 RUS-MSK71-Zone2	+	38.48333333333	0	1	2250000	-5612900.563	35	40	52	56	RUS-Pulkovo42_5044	Тульская область, МСК-71 зона 2	Tula region, LCS-71 zone 2	ru;region		
@@ -647,7 +648,7 @@ RUS-MSK75-Zone5	+	121.03333333333	0	1	5250000	-5111057.628	105	124	48	60	RUS-Pul
 RUS-MSK76-Yaroslavl	+	39.95106028181	0	1	4805.617	-6389458.756	37	42	56	59	RUS-Pulkovo42_5044	г. Ярославль, Ярославская область	Yaroslavl town, Yaroslavl region	ru;region	geodesist	
 RUS-MSK76-Zone1	+	38.55	0	1	1250000	-6014743.504	37	42	56	59	RUS-Pulkovo42_5044	Ярославская область, МСК-76 зона 1	Yaroslavl region, LCS-76 zone 1	ru;region		
 RUS-MSK76-Zone2	+	41.55	0	1	2250000	-6014743.504	37	42	56	59	RUS-Pulkovo42_5044	Ярославская область, МСК-76 зона 2	Yaroslavl region, LCS-76 zone 2	ru;region		
-RUS-MSK79	+	130.71666666667	0	1	1300000	-4916586.44	129	137	47	50	RUS-Pulkovo42_5044	Еврейская автономная область, МСК-79	Jewish Autonomous Region, LCS-79	ru;region	geobridge	
+RUS-MSK79	+	130.71666666667	0	1	1300000	-4916586.44	129	137	47	50	RUS-Pulkovo42_5044	Еврейская автономная область, МСК-79	Jewish Autonomous region, LCS-79	ru;region	geobridge	
 RUS-MSK83-Beloyarsk	+	69	0	1	50195.78	-7408592.13	67	69	66	68	RUS-Pulkovo42_5044	г. Белоярск, ЯНАО	Beloyarsk town, Nenets Autonomous Area	ru;town	MAPINFOW	
 RUS-MSK83-Chapayevsk	+	69	0	1	59204.5	-7369506.82	67	69	66	67	RUS-Pulkovo42_5044	пос. Чапаевск, ЯНАО	Chapayevsk town, Nenets Autonomous Area	ru;town	MAPINFOW	
 RUS-MSK83-Harp	+	66.05	0	1	14192.31	-7369506.82	65	67	66	68	RUS-Pulkovo42_5044	пос. Харп, ЯНАО	Harp town, Nenets Autonomous Area	ru;town	geodesist	
@@ -797,10 +798,10 @@ USSR-SK63-J6-Zone2	+	164.46666666667	0	1	2400000	-16586.442	150	180	57	72	RUS-Pu
 USSR-SK63-J6-Zone3	+	170.46666666667	0	1	3400000	-16586.442	150	180	57	72	RUS-Pulkovo42_5044	Система 1963 года, 6 градусная зона, район J	SK-1963 zone J3 (CM-170.46) 6 degree	ussr		
 USSR-SK63-J6-Zone4	+	176.46666666667	0	1	4400000	-16586.442	150	180	57	72	RUS-Pulkovo42_5044	Система 1963 года, 6 градусная зона, район J	SK-1963 zone J4 (CM-176.46) 6 degree	ussr		
 USSR-SK63-J6-Zone5	+	-177.53333333337	0	1	5400000	-16586.442	150	180	57	72	RUS-Pulkovo42_5044	Система 1963 года, 6 градусная зона, район J	SK-1963 zone J5 (CM-182.46) 6 degree	ussr		
-USSR-SK63-K3-Zone1	+	47.766666666667	0	1	1300000	0	41	91	38	58	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район K1	SK-1963 zone K1 (CM-47.76) 3 degree	ussr;kaz		На EPSG такого номера нет, сделал по аналогии с зоной 2
-USSR-SK63-K3-Zone2	+	50.766666666667	0	1	2300000	0	41	91	38	58	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район K2 (EPSG:2939)	SK-1963 zone K2 (CM-50.76) 3 degree (EPSG:2939)	ussr;kaz	EPSG	
-USSR-SK63-K3-Zone3	+	53.766666666667	0	1	3300000	0	41	91	38	58	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район K3 (EPSG:2940)	SK-1963 zone K3 (CM-53.76) 3 degree (EPSG:2940)	ussr;kaz	EPSG	
-USSR-SK63-K3-Zone4	+	56.766666666667	0	1	4300000	0	41	91	38	58	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район K4 (EPSG:2941)	SK-1963 zone K4 (CM-56.76) 3 degree (EPSG:2941)	ussr;kaz	EPSG	
+USSR-SK63-K3-Zone1	+	47.766666666667	0	1	1300000	0	41	91	38	58	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район K1	SK-1963 zone K1 (CM-47.76) 3 degree	ussr		На EPSG такого номера нет, сделал по аналогии с зоной 2
+USSR-SK63-K3-Zone2	+	50.766666666667	0	1	2300000	0	41	91	38	58	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район K2 (EPSG:2939)	SK-1963 zone K2 (CM-50.76) 3 degree (EPSG:2939)	ussr	EPSG	
+USSR-SK63-K3-Zone3	+	53.766666666667	0	1	3300000	0	41	91	38	58	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район K3 (EPSG:2940)	SK-1963 zone K3 (CM-53.76) 3 degree (EPSG:2940)	ussr	EPSG	
+USSR-SK63-K3-Zone4	+	56.766666666667	0	1	4300000	0	41	91	38	58	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район K4 (EPSG:2941)	SK-1963 zone K4 (CM-56.76) 3 degree (EPSG:2941)	ussr	EPSG	
 USSR-SK63-L3-Zone1	+	81.516667	0	1	1500000	-16586.442	56	115	36	79	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район L1 (CM-81.52)	SK-1963 zone L1 (CM-81.52) 6 degree	ussr		
 USSR-SK63-L3-Zone2	+	87.516667	0	1	2500000	-16586.442	56	115	36	79	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район L2 (CM-87.52)	SK-1963 zone L2 (CM-87.52) 6 degree	ussr		
 USSR-SK63-L3-Zone3	+	93.516667	0	1	3500000	-16586.442	56	115	36	79	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район L3 (CM-93.52)	SK-1963 zone L3 (CM-93.52) 6 degree	ussr		
@@ -843,7 +844,7 @@ USSR-SK63-S6-Zone7	+	144.45	0	1	7400000	-12900.566	125	180	57	85	RUS-Pulkovo42_5
 USSR-SK63-S6-Zone8	+	150.45	0	1	8400000	-12900.566	125	180	57	85	RUS-Pulkovo42_5044	Система 1963 года, 6 градусная зона, район S	SK-1963 zone S8 (CM-150.45) 6 degree	ussr		
 USSR-SK63-S6-Zone9	+	156.45	0	1	9400000	-12900.566	125	180	57	85	RUS-Pulkovo42_5044	Система 1963 года, 6 градусная зона, район S	SK-1963 zone S9 (CM-156.45)	ussr		
 USSR-SK63-T3-Zone1	+	37.98333333333	0	1	1300000	-11057.628	35	50	40	51	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район T	SK-1963 zone T1 (CM-37.98)	ussr		
-USSR-SK63-T3-Zone2	+	40.98333333333	0	1	2300000	-11057.628	35	50	40	51	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район T	SK-1963 zone T2 (CM-40.98)	ussr;abh		
+USSR-SK63-T3-Zone2	+	40.98333333333	0	1	2300000	-11057.628	35	50	40	51	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район T	SK-1963 zone T2 (CM-40.98)	ussr		
 USSR-SK63-T3-Zone3	+	43.98333333333	0	1	3300000	-11057.628	35	50	40	51	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район T	SK-1963 zone T3 (CM-43.98)	ussr		
 USSR-SK63-T3-Zone4	+	46.98333333333	0	1	4300000	-11057.628	35	50	40	51	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район T	SK-1963 zone T4 (CM-46.98)	ussr		
 USSR-SK63-U6-Zone1	+	53.5166666666667	0	1	1300000	-14743.504	49	84	28	49	RUS-Pulkovo42_5044	Система 1963 года, 3 градусная зона, район U	SK-1963 zone U1 (CM-53.516) 3 degree	ussr		

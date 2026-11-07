@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Dictionary version="1.0" xmlns="http://www.osgeo.org/mapguide/coordinatesystem">
+	
+	<Ellipsoid id="BESSEL">
+		<Name>BESSEL</Name>
+		<Description>Bessel, 1841 (EPSG:7004)</Description>
+		<SemiMajorAxis uom="meter">6377397.155</SemiMajorAxis>
+		<SecondDefiningParameter>
+			<SemiMinorAxis uom="meter">6356078.96281819</SemiMinorAxis>
+		</SecondDefiningParameter>
+	</Ellipsoid>
+	<Ellipsoid id="Krasovsky-SK42/95">
+		<Name>Krasovsky-SK42/95</Name>
+		<Description>Ellipsoid Krasovsky (EPSG:7024)</Description>
+		<SemiMajorAxis uom="meter">6378245</SemiMajorAxis>
+		<SecondDefiningParameter>
+			<SemiMinorAxis uom="meter">6356863.01877305</SemiMinorAxis>
+		</SecondDefiningParameter>
+	</Ellipsoid>
+	
+	<Ellipsoid id="Rus-GSK-2011">
+		<Name>Rus-GSK-2011</Name>
+		<Description>Ellipsoid for GSK-2011 (EPSG:1025-ellipsoid)</Description>
+		<SemiMajorAxis uom="meter">6378136.5</SemiMajorAxis>
+		<SecondDefiningParameter>
+			<SemiMinorAxis uom="meter">6356751.758</SemiMinorAxis>
+		</SecondDefiningParameter>
+	</Ellipsoid>
+</Dictionary>
